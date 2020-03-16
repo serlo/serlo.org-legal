@@ -63,7 +63,7 @@ Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO aufgrund uns
 Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Deinem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Dich ermöglichen. Die gesammelten Informationen umfassen
 
 * den Browser-Typ/-Version,
-* das verwendetes Betriebssystem,
+* das verwendete Betriebssystem,
 * die Referrer-URL (die zuvor besuchte Seite),
 * die IP-Adresse,
 * die Uhrzeit der Serveranfrage.
@@ -84,9 +84,27 @@ Die Datenschutzrichtlinien von Google findest Du [hier](https://policies.google.
 
 Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO aufgrund unseres berechtigten Interesses an der Analyse des Nutzerverhaltens zum Zwecke der Verbesserung unserer Webangebote.
 
+#### Sentry
+
+Diese Webseite nutzt den Dienst [Sentry](https://sentry.io), um die technische Stabilität unserer Dienste durch Überwachung der Systemstabilität und Ermittlung von Codefehlern zu verbessern. Anbieter ist die Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107.
+
+Die gesammelten Informationen umfassen:
+
+* den Browser-Typ/-Version,
+* den Geräte-Typ,
+* das verwendete Betriebssystem,
+* die URL der Seite, auf der ein Fehler aufgetreten ist,
+* die Uhrzeit der Serveranfrage.
+
+Diese Daten werden bei Auftreten von Fehlern an die Server von Sentry in den USA übertragen.
+
+Wir haben mit Sentry einen Vertrag über Auftragsverarbeitung. Außerdem ist Sentry unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
+
+Die Datenschutzrichtlinien von Sentry findest Du [hier](https://sentry.io/privacy/).
+
 #### YouTube mit erweitertem Datenschutz
 
-Unsere Website nutzt Plugins der Website YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+Unsere Website nutzt Pldas ugins der Website YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
 Wir nutzen YouTube im erweiterten Datenschutzmodus. Dieser Modus bewirkt laut YouTube, dass YouTube keine Informationen über die BesucherInnen auf dieser Website speichert, bevor diese sich das Video ansehen. Die Weitergabe von Daten an YouTube-Partner wird durch den erweiterten Datenschutzmodus hingegen nicht zwingend ausgeschlossen. So stellt YouTube – unabhängig davon, ob Du dir ein Video ansiehst – eine Verbindung zum Google DoubleClick-Netzwerk her.
 
@@ -184,9 +202,9 @@ Die Übermittlung Deiner Daten an Stripe erfolgt auf Grundlage von Art. 6 Abs. 1
 
 Die Datenschutzerklärung von Stripe findest Du [hier](https://stripe.com/de/privacy).
 
-#### Fundraisingbox
+#### twingle
 
-Diese Webseite nutzt zur Verarbeitung von Spendenaufträgen Fundraisingbox, eine Online Fundraising Software der WIKANDO GmbH, welche in Deutschland, Augsburg ansässig ist. Die gespeicherten Daten umfassen:
+Diese Webseite nutzt zur Verarbeitung von Spendenaufträgen twingle, eine Online Fundraising Software der twingle GmbH, welche in Deutschland, Berlin ansässig ist. Die gespeicherten Daten umfassen:
 
 * den Browser-Typ/-Version
 * den Gerätetyp
@@ -196,11 +214,11 @@ Diese Webseite nutzt zur Verarbeitung von Spendenaufträgen Fundraisingbox, eine
 * den Spendenrhythmus
 * Deine Kontaktdaten sowie die Zahlungsart
 
-Die Daten werden auf Servern in Deutschland gespeichert. WIKANDO nutzt erhobenen personenbezogenen Daten um dem Auftrag der Spendenverarbeitung nachzukommen. Zudem erfolgt eine anonymisierte Auswertung der gespeicherten Spender- und Spendendaten durch WIKANDO zu statistischen Zwecken und der Verwertung der Auswertungsergebnisse durch WIKANDO.
+Die Daten werden auf Servern in Deutschland gespeichert. twingle nutzt die erhobenen personenbezogenen Daten um dem Auftrag der Spendenverarbeitung nachzukommen. Zudem erfolgt eine anonymisierte Auswertung der gespeicherten Spender- und Spendendaten durch twingle zu statistischen Zwecken und der Verwertung der Auswertungsergebnisse durch twingle.
 
 Die Benutzung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a (Einwilligung) und des Art. 6 Abs. 1 lit. f. DSGVO (Berechtigtes Interesse). Du kannst diese Einwilligung jederzeit widerrufen, indem Du den Spendenauftrag widerrufst. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
-Die Datenschutzerklärung von Fundraisingbox findest Du [hier](https://www.fundraisingbox.com/privacy/).
+Die Datenschutzerklärung von twingle findest Du [hier](https://www.twingle.de/datenschutz/).
 
 #### Google Cloud
 
