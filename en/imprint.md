@@ -41,7 +41,7 @@ If the website provider is made aware of any such copyright violation the materi
 Copyright law
 -------------
 
-Please look at our terms of use.
+Please look at our [terms of use](https://en.serlo.org/terms).
 
 Responsibility for links
 ------------------------
@@ -51,4 +51,4 @@ Our offer contains links to websites of third parties, on whose content we have 
 Privacy policy
 --------------
 
-Please have a look at our indications in our privacy policy
+Please have a look at our indications in our [privacy policy](https://en.serlo.org/privacy).
