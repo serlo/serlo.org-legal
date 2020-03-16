@@ -6,6 +6,7 @@ Serlo.org nutzt personenbezogene Daten zu folgenden Zwecken:
 * um die Dienste von Serlo anzubieten und verbessern zu können,
 * um zu verstehen, wie BesucherInnen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere BesucherInnen analysieren,
 * um Feedback zu unseren Lehrinhalten zu erhalten und diese verbessern und weiterentwickeln zu können.
+* um die Arbeit in unserer Community zu organisieren und in Kontakt mit Autor\*innen treten.
 
 Wie erfassen und verarbeiten wir personenbezogene Daten
 -------------------------------------------------------
@@ -161,6 +162,12 @@ Für wichtige Änderungen etwa beim Angebotsumfang oder bei technisch notwendige
 Die Verarbeitung der bei Registrierung angegebenen Daten geschieht auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Deiner Einwilligung. Du kannst eine von Dir erteilte Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
 
 Die bei der Registrierung erfassten Daten werden von uns gespeichert, solange Du auf unserer Website registriert sind und werden anschließend gelöscht. Gesetzliche Aufbewahrungsfristen bleiben unberührt.
+
+#### Aktivitätsdaten
+
+Wenn du auf Serlo.org registriert und als Autor\*in oder Reviewer\*in aktiv bist, wird deine Bearbeitungshistorie in unserer Datenbank gespeichert. Serlo erfasst jeweils deinen Nutzernamen und Zeitpunkt der Aktivität. Die Auswertung dieser Daten ermöglicht es Serlo, die Begleitung unserer Online-Community zu verbessern und sicher zu stellen, dass auf jeden Beitrag eingegangen werden kann. Die Auswertung der Daten erfolgt über Monitoring- und Analyseprogramme.
+
+Die Datenverarbeitung dient der Verbesserung der Wirkungsweise der Plattform. Die Datenverarbeitung geschieht auf Grundlage des Art. 6 Abs. 1 lit. f DSGVO. Der Webseitenbetreiber hat ein berechtigtes Interesse an der Auswertung der Daten zur Verbesserung des Online-Angebots.
 
 #### Google Cloud
 
