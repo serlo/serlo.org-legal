@@ -9,7 +9,7 @@ Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnüt
 
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: 143/216/10758
 
-Der verantwortliche Ansprechpartner ist der Vorstand: Simon Köhl (Vorsitzender), Aeneas Rekkas (stellv. Vorsitzender), Ronnit Wilmersdörffer (Finanzvorstand)
+Der verantwortliche Ansprechpartner ist der Vorstand: Simon Köhl (Vorsitzender), Wolfgang Schmid (stellv. Vorsitzender), Stephan Kulla (Finanzvorstand)
 
 Für den Blog ist verantwortlich im Sinne des Presserechts: Simon Köhl (Vorsitzender)
 
