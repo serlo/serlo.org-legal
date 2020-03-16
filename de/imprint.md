@@ -1,6 +1,3 @@
-Impressum
-=========
-
 „Serlo" ist im Internet unter www.serlo.org zu finden.
 
 Anbieter dieser Website ist der [Serlo Education e. V.](/ref/21437), eingetragen beim Amtsgericht München unter der Nummer: 202808.

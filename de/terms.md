@@ -1,6 +1,3 @@
-Nutzungsbedingungen und Urheberrecht
-====================================
-
 Informationen für die Mitarbeit auf Serlo-Seiten
 ------------------------------------------------
 
