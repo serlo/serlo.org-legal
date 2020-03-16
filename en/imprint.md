@@ -6,7 +6,7 @@ The “Serlo Education e.V.” is an association under german law, whose charita
 
 The sales-tax registration-number following §27a Umsatzsteuergesetz of the German Law is: 143/216/10758
 
-The responsible contact persons are the board members: Simon Köhl (chairman), Wolfgang Schmid (deputy chairman), Ronnit Wilmersdörffer (financial director).
+The responsible contact persons are the board members: Simon Köhl (chairman), Wolfgang Schmid (deputy chairman), Stephan Kulla (financial director).
 
 Responsible for the blog according to the german press law: Simon Köhl (chairman)
 
