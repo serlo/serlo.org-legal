@@ -46,7 +46,7 @@ Wenn dem Anbieter eine entsprechende Urheberrechtsverletzung angezeigt wird, wir
 Urheberrecht
 ------------
 
-Bitte beachten Sie die diesbezüglichen Angaben in unseren [Nutzungsbedingungen](/ref/21654).
+Bitte beachten Sie die diesbezüglichen Angaben in unseren [Nutzungsbedingungen](/terms).
 
 Haftung für Links
 -----------------
@@ -56,4 +56,4 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 Datenschutz
 -----------
 
-Bitte beachten Sie die diesbezüglichen Angaben in unserer [Datenschutzerklärung](/datenschutz).
+Bitte beachten Sie die diesbezüglichen Angaben in unserer [Datenschutzerklärung](/privacy).
