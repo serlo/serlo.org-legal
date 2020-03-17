@@ -203,7 +203,7 @@ Details zur Zahlung mit Sofortüberweisung entnehmen Sie folgenden Links: [https
 
 #### Stripe inc.
 
-Diese Webseite nutzt zur Abwicklung der Spende Dienstleistungen des Technologieunternehmens Stripe inc. („Stripe”), 510 Townsend Street, San Francisco, CA 94103. Die bei Ausfüllen des Spendenauftrags angegebenen Daten, d.h. Höhe und Rhythmus der Spende sowie Deine Kontaktdaten werden auf Servern von Stripe in den USA gespeichert. Stripe nutzt diese Daten zur Durchführung der Transaktion, sowie zur Durchführung von Maßnahmen gegen Betrugsabwehr.
+Diese Webseite nutzt zur Abwicklung der Spende Dienstleistungen des Technologieunternehmens Stripe inc. („Stripe”), 510 Townsend Street, San Francisco, CA 94103. Die bei Ausfüllen des Spendenauftrags angegebenen Daten, d.h. Höhe und Rhythmus der Spende sowie Deine Kontakt- und Kreditkarten werden auf Servern von Stripe in den USA gespeichert. Stripe nutzt diese Daten zur Durchführung der Transaktion, sowie zur Durchführung von Maßnahmen gegen Betrugsabwehr.
 
 Die Übermittlung Deiner Daten an Stripe erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit. b DSGVO (Verarbeitung zur Erfüllung eines Vertrags). Du hast die Möglichkeit, Deine Einwilligung zur Datenverarbeitung jederzeit zu widerrufen. Ein Widerruf wirkt sich auf die Wirksamkeit von in der Vergangenheit liegenden Datenverarbeitungsvorgängen nicht aus.
 
@@ -235,7 +235,7 @@ Die Datenschutzbestimmungen von Google findest Du [hier](https://policies.google
 
 #### Highrise
 
-Wenn Du dich dazu entscheidest, einen regelmäßigen Spendenbeitrag zu leisten, werden die durch das Spendenformular erfasste Daten auf Highrise gespeichert. Highrise ist ein Customer-Relationship-Management Dienst welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
+Wenn Du dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Highrise gespeichert. Highrise ist ein Customer-Relationship-Management Dienst welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
 
 * Deine Kontaktdaten,
 * die Höhe und den Rhythmus Deiner Spende
