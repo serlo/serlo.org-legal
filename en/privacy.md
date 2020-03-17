@@ -39,7 +39,7 @@ There is no consolidation of this data with any other data we may hold on you.
 
 The collection of this data is based on Art. 6 Sec. 1 lit. f DSGVO.  We as the website provider have a legitimate interest in the error-free technical delivery and optimisation of our services - for this the server log files have to be captured.
 
-### Hotjar
+#### Hotjar
 
 This website uses the web-analysis tool [Hotjar](https://www.hotjar.com/). Provider is the Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe. Hotjar uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information thus gathered includes:
 
@@ -58,8 +58,7 @@ You can find the privacy policy of Hotjar [here](https://www.hotjar.com/privacy)
 
 The use of Hotjar bases on Art. 6 Sec. 1 lit. f DSGVO. We as the website provider have a legitimate interest in an analysis of the website use, for the optimization of our services.
 
-Google Analytics
-----------------
+#### Google Analytics
 
 This website uses tools of the web analytics tool Google Analytics. Provider is the Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information thus collected includes: 
 
