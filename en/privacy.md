@@ -6,6 +6,7 @@ Serlo.org uses personal data for the following purposes:
 * to improve the services of serlo.org
 * to analyse and thus gain understanding of how users use serlo.org; this is important in order to ensure that serlo.org works properly and to develop useful new features and functionalities
 * to collect feedback on our content, which enables us to improve and further develop the platform
+* in order to organize the work in our community and establish contact with our authors
 
 How we capture and process personal data
 ----------------------------------------
@@ -158,6 +159,12 @@ In case of important changes concerning the scope of our services or necessary t
 The processing of your data entered upon registration occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR. You can retract your consent at any time by way of a formless e-mail to [en@serlo.org](mailto:en@serlo.org). The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way. 
 
 The information provided during registration will remain saved and stored by us for as long as you hold an account on our website and will be deleted afterwards. Legally required retention periods are not affected by a deletion of your account. 
+
+#### Activity data
+
+If you are registered on Serlo.org and active as author or reviewer, we store your editing history in our database. Serlo captures your user name and the timestamp of the activity. Analysis of this data allows Serlo to improve the support of our online community and assures therefore that every contribution can be addressed with feedback. Serlo evaluates this captured data using monitoring and analysis software.
+
+The intention of the dataprocessing isto improve the functionality of the platform and based on Article 6(1) GDPR. The website owner has a legitimate interest in the data processing in order to improve the online-experience of the user.
 
 #### Google Cloud
 
