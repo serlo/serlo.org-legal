@@ -162,9 +162,9 @@ The information provided during registration will remain saved and stored by us 
 
 #### Activity data
 
-If you are registered on Serlo.org and active as author or reviewer, we store your editing history in our database. Serlo captures your user name and the timestamp of the activity. Analysis of this data allows Serlo to improve the support of our online community and assures therefore that every contribution can be addressed with feedback. Serlo evaluates this captured data using monitoring and analysis software.
+If you are registered on Serlo.org and active as author or reviewer, we store your editing history in our database. Serlo processes your user name and the timestamp of the activity. Analysis of this data allows Serlo to improve the support of our online community and assures therefore that every contribution can be addressed with feedback. Serlo evaluates this captured data using monitoring and analysis software.
 
-The intention of the dataprocessing isto improve the functionality of the platform and based on Article 6(1) GDPR. The website owner has a legitimate interest in the data processing in order to improve the online-experience of the user.
+The intention of the data processing is to improve the functionality of the platform. We process your personal data pursuant to Article 6(1)(f) GDPR. The legitimate interest of the website owner lies in the improvement of the online-experience of the user.
 
 #### Google Cloud
 
