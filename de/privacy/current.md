@@ -1,33 +1,33 @@
 Warum erfassen wir personenbezogene Daten
 -----------------------------------------
 
-Serlo.org nutzt personenbezogene Daten zu folgenden Zwecken:
+Serlo.org verarbeitet personenbezogene Daten zu folgenden Zwecken:
 
 * um die Dienste von Serlo anzubieten und verbessern zu können,
-* um zu verstehen, wie BesucherInnen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere BesucherInnen analysieren,
+* um zu verstehen, wie Besucher*innen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere Besucher*innen analysieren,
 * um Feedback zu unseren Lehrinhalten zu erhalten und diese verbessern und weiterentwickeln zu können.
 * um die Arbeit in unserer Community zu organisieren und in Kontakt mit Autor\*innen treten.
 
 Wie erfassen und verarbeiten wir personenbezogene Daten
 -------------------------------------------------------
 
-Serlo.org nutzt externe Dienstleister zur Erfassung und Verarbeitung der erhobenen Daten. Im Folgenden werden diese Dienstleister und deren Funktionsweise aufgeführt.
+Serlo.org nutzt externe Dienstleister zur Erfassung und Verarbeitung der erhobenen personenbezogenen Daten. Im Folgenden werden diese Dienstleister und deren Funktionsweise aufgeführt.
 
 ### Verarbeitung der Nutzerdaten
 
 #### Cookies
 
-Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Deinem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Deinem Rechner abgelegt werden und die Dein Browser speichert.
+Die Internetseiten verwenden teilweise so genannte Cookies. Cookies sind kleine Textdateien, die auf Deinem Rechner abgelegt werden und die Dein Browser speichert. Cookies richten auf Deinem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.
 
 Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies”. Sie werden nach Ende Deines Besuchs automatisch gelöscht. Andere Cookies bleiben auf Deinem Endgerät gespeichert bis Du diese löschst. Diese Cookies ermöglichen es uns, Deinen Browser beim nächsten Besuch wiederzuerkennen.
 
 Du kannst Deinen Browser so einstellen, dass Du über das Setzen von Cookies informiert wirst und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
 
-Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Der Webseitenbetreiber hat ein berechtigtes Interesse an der Speicherung von Cookies zur technisch fehlerfreien und optimierten Bereitstellung seiner Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Ihres Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.
+Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Unser berechtigtes Interesse an der Speicherung von Cookies liegt in der Ermöglichung einer  technisch fehlerfreien und optimierten Bereitstellung unserer Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Deines Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.
 
 #### Server-Log-Dateien
 
-Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. Dies sind:
+Wir als Provider der Webseiten der Seiten erheben und speichern automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. Dies sind:
 
 * Browsertyp und Browserversion
 * verwendetes Betriebssystem
@@ -36,28 +36,28 @@ Der Provider der Seiten erhebt und speichert automatisch Informationen in so gen
 * Uhrzeit der Serveranfrage
 * IP-Adresse
 
-Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen.
+Eine Zusammenführung dieser Daten mit anderen personenbezogenen Datenquellen wird nicht vorgenommen.
 
-Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Webseitenbetreiber hat ein berechtigtes Interesse an der technisch fehlerfreien Darstellung und der Optimierung seiner Website – hierzu müssen die Server-Log-Files erfasst werden.
+Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse an der Verarbeitung von Server-Log-Files liegt in der Ermöglichung einer technisch fehlerfreien Darstellung und Optimierung unserer Webseite.
 
 #### Hotjar
 
-Diese Webseite nutzt den Webanalysedienst [Hotjar](https://www.hotjar.com/). Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe. Hotjar verwendet sog. „Cookies“, Textdateien, die auf Deinem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Dich ermöglichen. Die so gesammelten Informationen umfassen
+Diese Webseite nutzt den Webanalysedienst [Hotjar](https://www.hotjar.com/). Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta. Hotjar verwendet sog. „Cookies“, Textdateien, die auf Deinem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Dich ermöglichen. Die so gesammelten Informationen umfassen
 
 * die IP-Adresse,
 * den Gerätetyp,
 * den Browser-Typ / die Browser-Version
 * Deinen Standort (nur Land)
 
-Die durch den Cookie erzeugten Informationen über Deine Benutzung dieser Webseite werden in der Regel an einen Server von Hotjar in Irland übertragen und dort gespeichert. Die im Rahmen von Hotjar von Deinem Browser übermittelte IP-Adresse wird anonymisiert und nicht mit anderen Daten von Hotjar zusammengeführt. Die gesammelten Daten werden in einem pseudonymisierten Nutzerprofil gespeichert und weder von uns noch von Hotjar zur Identifizierung einzelner Nutzer verwendet. Zudem haben wir einen Vertrag über Auftragsverarbeitung mit Hotjar abgeschlossen, welcher Hotjar verpflichtet, die europäischen Datenschutzvorschriften umzusetzen.
+Die durch den Cookie erzeugten Informationen über Deine Benutzung dieser Webseite werden in der Regel an einen Server von Hotjar in Irland übertragen und dort gespeichert. Die im Rahmen von Hotjar von Deinem Browser übermittelte IP-Adresse wird pseudonymisiert und nicht mit anderen Daten von Hotjar zusammengeführt. Die gesammelten Daten werden in einem pseudonymisierten Nutzerprofil gespeichert und weder von uns noch von Hotjar zur Identifizierung einzelner Nutzer verwendet. Die Verarbeitungtätigkeit von Hotjar in unserem Auftrag geschieht auf Grundlage eines Vertrags über Auftragsverarbeitung, den wir mit Hotjar abgeschlossen haben. Dieser verpflichtet Hotjar, die europäischen Datenschutzvorschriften umzusetzen.
 
-Die durch Hotjar vorgenommene Analyse beinhaltet die Aufzeichnung von Maus- und Scrollbewegungen sowie Klicks. Hotjar kann dabei auch feststellen, wie lange Du mit dem Mauszeiger auf einer bestimmten Stelle verblieben bist. So können Heatmaps erstellte werden, die es uns erlauben festzustellen, welche Webseitenbereiche von BesucherInnen favorisiert werden. Des Weiteren können wir feststellen, wie lange Du auf einer Seite verblieben bist und wann Du sie verlassen hast. Wir können auch feststellen, an welcher Stelle Du Deine Eingaben in ein Kontaktformular abgebrochen hast (sog. Conversion-Funnels). Außerdem besteht die Möglichkeit, über Hotjar direktes Feedback von BesucherInnen unserer Webseite einzuholen.
+Die durch Hotjar vorgenommene Analyse beinhaltet die Aufzeichnung von Maus- und Scrollbewegungen sowie Klicks. Hotjar kann dabei auch feststellen, wie lange Du mit dem Mauszeiger auf einer bestimmten Stelle verblieben bist. So können Heatmaps erstellte werden, die es uns erlauben festzustellen, welche Webseitenbereiche von BesucherInnen favorisiert werden. Des weiteren können wir feststellen, wie lange Du auf einer Seite verblieben bist und wann Du sie verlassen hast. Wir können auch feststellen, an welcher Stelle Du Deine Eingaben in ein Kontaktformular abgebrochen hast. Außerdem besteht die Möglichkeit, über Hotjar direktes Feedback von Besucher*innen unserer Webseite einzuholen.
 
-Du kannst das Hotjar-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Deine Nutzung der Webseite bezogenen Daten inklusive Deiner IP-Adresse an Hotjar sowie die Verarbeitung dieser Daten durch Hotjar verhindern), indem Du die Anleitung auf [Hotjar ausschalten](https://www.hotjar.com/legal/compliance/opt-out) befolgst. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Deiner Daten beim Besuch dieser Website verhindert. Dieser Cookie gilt nur für diesen Browser und ausschließlich für den Besuch unserer Webseite und muss im Falle eines Löschens der Cookies neu gesetzt werden.
+Du kannst das Hotjar-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Deine Nutzung der Webseite bezogenen Daten inklusive Deiner IP-Adresse durch Hotjar sowie die Verarbeitung dieser Daten durch Hotjar verhindern), indem Du die Anleitung auf [Hotjar ausschalten](https://www.hotjar.com/legal/compliance/opt-out) befolgst. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Deiner Daten beim Besuch dieser Website verhindert. Dieser Cookie gilt nur für diesen Browser und ausschließlich für den Besuch unserer Webseite und muss im Falle eines Löschens der Cookies neu gesetzt werden.
 
 Die Datenschutzerklärung von Hotjar findest Du [hier](https://www.hotjar.com/privacy).
 
-Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO aufgrund unseres berechtigten Interesses an der Analyse des Nutzerverhaltens zum Zwecke der Verbesserung unserer Webangebote.
+Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO. Unser berechtigtes Interesse an der Analyse des Nutzerverhaltens liegt in der Ermöglichung einer Verbesserung unserer Webangebote.
 
 #### Google Analytics
 
@@ -69,25 +69,25 @@ Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter
 * die IP-Adresse,
 * die Uhrzeit der Serveranfrage.
 
-Diese Daten werden auf Servern von Google in den USA übertragen und dort gespeichert. Die im Rahmen von Google Analytics von Deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Wir haben Google Analytics zudem mit dem Code „anonymizeIP” konfiguriert, sodass die IP-Addresse von Google noch innerhalb der Europäischen Union oder eines anderen Vertragstaats der Datenschutzgrundverordnung vor der Übermittlung in die USA gekürzt wird. Dadurch werden alle gesammelten Daten anonym erhoben. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die im Rahmen von Google Analytics von Deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+Diese Daten werden auf Servern von Google in den USA übertragen und dort gespeichert. Die im Rahmen von Google Analytics von Deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Wir haben Google Analytics zudem mit dem Code „anonymizeIP” konfiguriert, sodass die IP-Addresse von Google noch innerhalb der Europäischen Union oder eines anderen Vertragstaats der Datenschutzgrundverordnung vor der Übermittlung in die USA gekürzt wird. Dadurch werden alle gesammelten Daten anonym erhoben. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
-Diese Website nutzt die Funktion „demografische Merkmale” von Google Analytics. Dadurch können Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten können keiner bestimmten Person zugeordnet werden. Sie können diese Funktion jederzeit über die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten durch Google Analytics wie im Punkt „Widerspruch gegen Datenerfassung” dargestellt generell untersagen.
+Diese Website nutzt die Funktion „demografische Merkmale” von Google Analytics. Dadurch können Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten können keiner bestimmten Person zugeordnet werden. Du kannst diese Funktion jederzeit über die Anzeigeneinstellungen in Deinem Google-Konto deaktivieren oder die Erfassung Deiner Daten durch Google Analytics wie im Punkt „Widerspruch gegen Datenerfassung” dargestellt generell untersagen.
 
-Google wird die gesammelten Informationen nutzen, um im Auftrag des Betreibers dieser Website Deine Nutzung von Serlo.org auszuwerten und dadurch Reports über die Webseiten-Aktivität zu erstellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen.
+Google wird die gesammelten Informationen nutzen, um im Auftrag des Betreibers dieser Webseite Deine Nutzung von Serlo.org auszuwerten und dadurch Reports über die Webseiten-Aktivität zu erstellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen.
 
-Google stellt diese Informationen Dritten grundsätzlich nicht zur Verfügung. Nur in Ausnahmefällen wird Google Informationen an Dritte übertragen. Diese Ausnahmefälle umfassen die (i) Einwilligung des Betreibers dieser Webseite, (ii) eine gesetzliche Verpflichtung oder den Schutz der Rechte, des Eigentums und/oder die Sicherheit von Google, seiner Nutzer oder der Öffentlichkeit und (iii) die Übertragung von Daten an Dritte um Aufgaben von Google durchzuführen. Im Fall von Punkt (iii) findet sind diese Dritte dazu verpflichtet, die Informationen nur nach den vorgegebenen Instruktionen in Übereinstimmung mit dieser Vereinbarung und mit angemessenen Datenschutz- und Sicherheitsmaßnahmen zu verarbeiten.
+Google stellt diese Informationen Dritten grundsätzlich nicht zur Verfügung. Nur in Ausnahmefällen wird Google Informationen an Dritte übertragen. Diese Ausnahmefälle umfassen die (i) Einwilligung des Betreibers dieser Webseite, (ii) eine gesetzliche Verpflichtung oder den Schutz der Rechte, des Eigentums und/oder die Sicherheit von Google, seiner Nutzer oder der Öffentlichkeit und (iii) die Übertragung von Daten an Dritte um Aufgaben von Google durchzuführen. Im Fall von Punkt (iii) findet sind diese Dritte dazu verpflichtet, die Informationen nur nach den vorgegebenen Weisungen in Übereinstimmung mit dieser Vereinbarung und mit angemessenen Datenschutz- und Sicherheitsmaßnahmen zu verarbeiten.
 
-Wir haben mit Google einen Vertrag über Auftragsverarbeitung, und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um. Außerdem ist Google Analytics unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
+Wir haben mit Google einen Vertrag über Auftragsverarbeitung abgeschlossen, und setzen die strengen Vorgaben der deutschen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um. Außerdem ist Google Analytics unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
-Du kannst die Erfassung durch Google Analytics verhindern, indem Du auf den folgenden Link klickst. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Deiner Daten beim Besuch dieser Website verhindert. Dieser Cookie gilt nur für diesen Browser und ausschließlich für den Besuch unserer Webseite und muss im Falle eines Löschens neu gesetzt werden: [Google Analytics deaktivieren](__JS_GOOGLE_ANALYTICS_DEACTIVATE__). Du kannst darüber hinaus Google Analytics mittels eines Browser Add-ons deaktivieren und damit das Erfassen und Verarbeiten Deiner Daten durch Google verhindern, wenn Du dies nicht wünschst. Dieses Bowser Add-on kannst Du hier herunterladen: [http://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de).
+Du kannst die Erfassung Deiner Daten durch Google Analytics verhindern, indem Du auf den folgenden Link klickst. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Deiner Daten beim Besuch dieser Webseite verhindert. Dieser Cookie gilt nur für diesen Browser und ausschließlich für den Besuch unserer Webseite und muss im Falle eines Löschens neu gesetzt werden: [Google Analytics deaktivieren](__JS_GOOGLE_ANALYTICS_DEACTIVATE__). Du kannst darüber hinaus Google Analytics mittels eines Browser Add-ons deaktivieren und damit das Verarbeiten Deiner Daten durch Google verhindern, wenn Du dies nicht wünschst. Dieses Bowser Add-on kannst Du hier herunterladen: [http://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de).
 
 Die Datenschutzrichtlinien von Google findest Du [hier](https://policies.google.com/?hl=de). Weitere Informationen dazu, wie Google Ihre Daten verarbeitet findest Du [hier](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631).
 
-Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO aufgrund unseres berechtigten Interesses an der Analyse des Nutzerverhaltens zum Zwecke der Verbesserung unserer Webangebote.
+Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO. Unser berechtigtes Interesse an der Analyse des Nutzerverhaltens liegt in der Ermöglichung der Verbesserung unserer Websangebote.
 
 #### Sentry
 
-Diese Webseite nutzt den Dienst [Sentry](https://sentry.io), um die technische Stabilität unserer Dienste durch Überwachung der Systemstabilität und Ermittlung von Codefehlern zu verbessern. Anbieter ist die Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107.
+Diese Webseite nutzt den Dienst [Sentry](https://sentry.io), um die technische Stabilität unserer Dienste durch Überwachung der Systemstabilität und Ermittlung von Codefehlern zu verbessern. Anbieter ist die Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107, USA.
 
 Die gesammelten Informationen umfassen:
 
@@ -99,15 +99,17 @@ Die gesammelten Informationen umfassen:
 
 Diese Daten werden bei Auftreten von Fehlern an die Server von Sentry in den USA übertragen.
 
-Wir haben mit Sentry einen Vertrag über Auftragsverarbeitung. Außerdem ist Sentry unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
+Wir haben mit Sentry einen Vertrag über Auftragsverarbeitung abgeschlossen. Außerdem ist Sentry unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
 Die Datenschutzrichtlinien von Sentry findest Du [hier](https://sentry.io/privacy/).
 
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser legitimes Interesse liegt in der Verbesserung der technischen Stabilität unserer Dienste.
+
 #### YouTube mit erweitertem Datenschutz
 
-Unsere Website nutzt Pldas ugins der Website YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
+Unsere Website nutzt Plugins der Website YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
-Wir nutzen YouTube im erweiterten Datenschutzmodus. Dieser Modus bewirkt laut YouTube, dass YouTube keine Informationen über die BesucherInnen auf dieser Website speichert, bevor diese sich das Video ansehen. Die Weitergabe von Daten an YouTube-Partner wird durch den erweiterten Datenschutzmodus hingegen nicht zwingend ausgeschlossen. So stellt YouTube – unabhängig davon, ob Du dir ein Video ansiehst – eine Verbindung zum Google DoubleClick-Netzwerk her.
+Wir nutzen YouTube im erweiterten Datenschutzmodus. Dieser Modus bewirkt, dass YouTube keine Informationen über die Besucher*innen auf dieser Webseite speichert, bevor diese sich das Video ansehen. Die Weitergabe von Daten an YouTube-Partner wird durch den erweiterten Datenschutzmodus hingegen nicht zwingend ausgeschlossen. So stellt YouTube – unabhängig davon, ob Du dir ein Video ansiehst – eine Verbindung zum Google DoubleClick-Netzwerk her.
 
 Sobald Du ein YouTube-Video auf unserer Webseite startest, wird eine Verbindung zu den Servern von YouTube hergestellt. Dabei wird dem YouTube-Server mitgeteilt, welche unserer Seiten Du besucht hast. Wenn Du in Deinem YouTube-Account eingeloggt bist, ermöglichst Du YouTube, Dein Surfverhalten direkt Deinem persönlichen Profil zuzuordnen. Dies kannst Du verhindern, indem Du Dich aus Deinem YouTube-Account ausloggst.
 
