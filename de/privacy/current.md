@@ -4,7 +4,7 @@ Warum erfassen wir personenbezogene Daten
 Serlo.org verarbeitet personenbezogene Daten zu folgenden Zwecken:
 
 * um die Dienste von Serlo anzubieten und verbessern zu können,
-* um zu verstehen, wie Besucher*innen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere Besucher*innen analysieren,
+* um zu verstehen, wie Besucher\*innen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere Besucher\*innen analysieren,
 * um Feedback zu unseren Lehrinhalten zu erhalten und diese verbessern und weiterentwickeln zu können.
 * um die Arbeit in unserer Community zu organisieren und in Kontakt mit Autor\*innen treten.
 
@@ -27,7 +27,7 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zu
 
 #### Server-Log-Dateien
 
-Wir als Provider der Webseiten der Seiten erheben und speichern automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. Dies sind:
+Wir als Provider der Webseiten erheben und speichern automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. Dies sind:
 
 * Browsertyp und Browserversion
 * verwendetes Betriebssystem
@@ -109,7 +109,7 @@ Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unse
 
 Unsere Website nutzt Plugins der Website YouTube. Betreiber der Seiten ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
-Wir nutzen YouTube im erweiterten Datenschutzmodus. Dieser Modus bewirkt, dass YouTube keine Informationen über die Besucher*innen auf dieser Webseite speichert, bevor diese sich das Video ansehen. Die Weitergabe von Daten an YouTube-Partner wird durch den erweiterten Datenschutzmodus hingegen nicht zwingend ausgeschlossen. So stellt YouTube – unabhängig davon, ob Du dir ein Video ansiehst – eine Verbindung zum Google DoubleClick-Netzwerk her.
+Wir nutzen YouTube im erweiterten Datenschutzmodus. Dieser Modus bewirkt, dass YouTube keine Informationen über die Besucher\*innen auf dieser Webseite speichert, bevor diese sich das Video ansehen. Die Weitergabe von Daten an YouTube-Partner wird durch den erweiterten Datenschutzmodus hingegen nicht zwingend ausgeschlossen. So stellt YouTube – unabhängig davon, ob Du dir ein Video ansiehst – eine Verbindung zum Google DoubleClick-Netzwerk her.
 
 Sobald Du ein YouTube-Video auf unserer Webseite startest, wird eine Verbindung zu den Servern von YouTube hergestellt. Dabei wird dem YouTube-Server mitgeteilt, welche unserer Seiten Du besucht hast. Wenn Du in Deinem YouTube-Account eingeloggt bist, ermöglichst Du YouTube, Dein Surfverhalten direkt Deinem persönlichen Profil zuzuordnen. Dies kannst Du verhindern, indem Du Dich aus Deinem YouTube-Account ausloggst.
 
