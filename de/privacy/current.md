@@ -85,7 +85,7 @@ Die Datenschutzrichtlinien von Google findest Du [hier](https://policies.google.
 
 Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO. Unser berechtigtes Interesse an der Analyse des Nutzerverhaltens liegt in der Ermöglichung der Verbesserung unserer Websangebote.
 
-#### Matamo
+#### Matomo
 
 Auf einigen unserer Webseiten verwenden wir Matomo, eine Open‑Source‑Software zur statistischen Analyse der Zugriffe durch Besucher. Die Daten werden dabei ausschließlich durch uns selbst verarbeitet und gespeichert. Folgenden Daten werden dabei verarbeitet:
 
@@ -225,7 +225,7 @@ Dazu verarbeitet Cloudfare unter anderen folgende personenbezogenen Daten:
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen. Cloudflare ist unter dem [EU-US Datenschutzabkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
-Die Datenschutzerklärung von Vercel findest Du unter [https://www.cloudflare.com/security-policy](https://www.cloudflare.com/security-policy).
+Die Datenschutzerklärung von Cloudflare findest Du unter [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
 
 Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Die Nutzung erfolgt auf Grundlage unserer berechtigten Interessen, d.h. Interesse an einer sicheren und effizienten Bereitstellung, Analyse sowie Verbesserung unserer Webangebote.
 
