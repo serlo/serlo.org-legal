@@ -97,9 +97,14 @@ Auf einigen unserer Webseiten verwenden wir Matomo, eine Open‑Source‑Softwar
 * Anzahl und Verweildauer der Besuche
 * auf der Website betätigten Links
 * die Uhrzeit der Serveranfrage
-* Die von Matomo gespeicherten Daten werden nicht auf andere Server übertragen oder an Dritte weitergegeben.
 
-Matomo ist auf unserer Webseite so konfiguriert, dass eine im Browser vorgenommene »Do‑Not‑Track«-Einstellung beachtet wird. Wenn Du mit der Speicherung und Auswertung Deiner personenbezogenen Daten nicht einverstanden bist, aktiviere die »Do‑Not‑Track«-Einstellung Deines Browsers.
+Die von Matomo gespeicherten Daten werden nicht auf andere Server übertragen oder an Dritte weitergegeben.
+
+Matomo ist auf unserer Webseite so konfiguriert, dass eine im Browser vorgenommene „Do‑Not‑Track“-Einstellung beachtet wird. Wenn Du mit der Speicherung und Auswertung Deiner personenbezogenen Daten nicht einverstanden bist, aktiviere die „Do‑Not‑Track“-Einstellung Deines Browsers.
+
+Über folgendes Formular kannst Du die Speicherung und Nutzung Deiner personenbezogenen Daten in Matomo deaktivieren. In diesem Fall wird in Deinem Browser ein Opt-Out-Cookie hinterlegt, der die Speicherung Deiner personenbezogenen Daten in Matomo verhindert. Wenn Du Deine Cookies löscht, wird auch das Matomo Opt-Out-Cookie gelöscht. In diesem Fall musst Du erneut über das folgende formular ein Opt-Out-Cookie erzeugen:
+
+MATOMO-OPT-OUT-FORM
 
 Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO aufgrund unseres berechtigten Interesses an der Analyse des Nutzerverhaltens zum Zwecke der Verbesserung unserer Webangebote.
 
