@@ -362,28 +362,28 @@ Die Daten registrierter NutzerInnen werden solange gespeichert wie das Nutzerpro
 BesucherInnen der Webseite sowie registrierte NutzerInnen haben folgende Rechte:
 
 * Recht auf Zugang zu Deinen Daten: Du hast das Recht unentgeltlich zu erfahren, welche personenbezogenen Daten verarbeitet werden, deren Herkunft und Empfänger sowie Zugang zu diesen Daten zu erhalten.
-    
+
 * Recht auf Korrektur Deiner Daten: Das Recht eine Berichtigung unrichtiger Daten zu verlangen sowie das Recht, eine Vervollständigung unvollständiger personenbezogener Daten zu verlangen.
-    
+
 * **Recht auf Widerspruch gegen die Datenverarbeitung: Erfolgt die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO, hast du jederzeit das Recht aufgrund deiner persönlichen Situation Widerspruch gegen die Verarbeitung personenbezogener Daten einzulegen. Die jeweiligen Rechtsgrundlage, aufgrund derer die Verarbeitung erfolgt ist dieser Datenschutzerklärung zu entnehmen. Wenn du Widerspruch einlegst, werden deine personenbezogenen Daten nicht weiter verarbeitet, außer es liegen unsererseits legitime Gründe zur Verarbeitung der Daten vor. Diese legitimen Gründe umfassen auch die Geltendmachung, Ausübung und Verteidigung von Rechtsansprüchen.**
-    
+
 * Recht auf eingeschränkte Datenverarbeitung: Du hast das Das Recht eine Einschränkung der Verarbeitung aller oder eines Teils der personenbezogenen Daten zu verlangen. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
-    
+
     * Wenn Du die Richtigkeit Deiner bei uns gespeicherten personenbezogenen Daten bestreitest, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
     * Wenn die Verarbeitung Deiner personenbezogenen Daten unrechtmäßig geschah / geschieht, kannst Du statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
     * Wenn wir Deine personenbezogenen Daten nicht mehr benötigen, Du sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigst, hast Du das Recht, statt der Löschung die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
     * Wenn Du einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt hast, muss eine Abwägung zwischen Deinen und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
-    
+
     Wenn Du die Verarbeitung Deiner personenbezogenen Daten eingeschränkt hast, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Deiner Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
-    
+
 * Recht auf Datenübertragbarkeit: Das Recht die von uns gesammelten personenbezogenen Daten in einem gängigen, maschinenlesbaren Format zu erhalten sowie das Recht diese Daten einer anderen Partei zu übermitteln. Sofern Du die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangst, erfolgt dies nur, soweit es technisch machbar ist.
-    
+
 * Recht auf Löschung / „Vergessenwerden”: Das Recht auf unverzügliche und vollständige Löschung aller personenbezogenen Daten.
-    
+
 * Das Recht auf Beschwerde bei einer Aufsichtsbehörde: Im Falle von Verstößen gegen die DSGVO steht dir ein Beschwerderecht bei einer Aufsichtsbehörde zu. Diese geht der Beschwerde nach und unterrichtet dich über das Ergebnis.
-    
+
 * Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
-    
+
 
 Wenn Du Fragen, Sorgen oder Anregungen über den Umgang von serlo.org mit personenbezogenen Daten hast, dann schreib uns bitte an:
 
