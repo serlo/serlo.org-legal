@@ -61,7 +61,7 @@ The use of Hotjar bases on Art. 6 Sec. 1 lit. f DSGVO. We as the website provide
 
 #### Google Analytics
 
-This website uses tools of the web analytics tool Google Analytics. Provider is the Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information thus collected includes: 
+This website uses tools of the web analytics tool Google Analytics. Provider is the Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information thus collected includes:
 
 * IP address
 * device type
@@ -74,13 +74,13 @@ This data is transmitted to servers of Google in the US and saved there. The IP 
 
 This website uses the Google Analytics function “demographic characteristics”. With this, reports can be created that contain statements about age, gender and interests of website users. This data is construed based on interest-related ads from Google as well as from user data of third parties and cannot be allocated to any individual person. You can deactivate this function at all times through your ad settings in your Google account or disable by default the collection of your data through Google Analytics as shown in the point „Objection to Data Collection”.
 
-Google will use the information collected to evaluate on our behalf your use of serlo.org, to create reports about the website activity and render further services connected to the web and website activity to us. 
+Google will use the information collected to evaluate on our behalf your use of serlo.org, to create reports about the website activity and render further services connected to the web and website activity to us.
 
 Generally, Google will not make this information available to third parties. In some exceptional cases Google may pass on this information to third parties. These cases include i) the consent of the website provider (us), ii) legal obligation or the protection of rights, property and/or safety of Google, its users or the public or iii) when required  for Google to fulfill tasks. As per point (iii), any third party involved is contractually obliged to process your data exclusively as instructed, in accordance with this privacy agreement and under application of adequate data protection and safety measures.
 
-Google has signed a data processing agreement governed by the European General Data Protection Regulation with us and is fully compliant with the strictest standards of the German Data Protection Agency in its application of Google Analytics. Moreover, Google Analytics is certified under the EU-US Data Protection Agreement and thereby obliged to observe EU data protection legislation.  
+Google has signed a data processing agreement governed by the European General Data Protection Regulation with us and is fully compliant with the strictest standards of the German Data Protection Agency in its application of Google Analytics. Moreover, Google Analytics is certified under the EU-US Data Protection Agreement and thereby obliged to observe EU data protection legislation.
 
-You can disable the collection of data through Google Analytics by clicking the following Link: This activates an opt-out Cookie which will block the collection of any data during future visits to our website. This Cookie is effective only for this browser and the use of our website. In case of deletion of the Cookie this function will cease to work and you need to reactivate the Cookie: [Disable Google Analytics](__DISABLE_GOOGLE_ANALYTICS__). You can also use a Browser Add-On to disable Google Analytics and stop Google from collection and processing of your data. You can download the add-on here: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout). Check [here](https://policies.google.com/privacy?hl=en) to preview Google’s Privacy Policy. You can find more information on how Google uses your data [here](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631). 
+You can disable the collection of data through Google Analytics by clicking the following Link: This activates an opt-out Cookie which will block the collection of any data during future visits to our website. This Cookie is effective only for this browser and the use of our website. In case of deletion of the Cookie this function will cease to work and you need to reactivate the Cookie: [Disable Google Analytics](JS-GOOGLE-ANALYTICS-DEACTIVATE). You can also use a Browser Add-On to disable Google Analytics and stop Google from collection and processing of your data. You can download the add-on here: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout). Check [here](https://policies.google.com/privacy?hl=en) to preview Google’s Privacy Policy. You can find more information on how Google uses your data [here](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631).
 
 The use of Google Analytics occurs on the basis of our legitimate interest in the analysis of user behaviour for the purpose of optimizing our services in accordance with Art. 6 Sec. 1 lit. f. GDPR.
 
@@ -104,9 +104,9 @@ You can preview their privacy policy [here](https://sentry.io/privacy/).
 
 Our website uses plugins for the website YouTube. Provider of the website is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
-We use YouTube in the Extended Privacy Protection Mode. According to YouTube, this mode stops YouTube from saving user information before the user watches a video. The transmission of data to YouTube Partners, however, is not necessarily prohibited through the activation of this mode. For example, YouTube will connect you to the Google DoubleClick Network irrespective of whether you watched a video. 
+We use YouTube in the Extended Privacy Protection Mode. According to YouTube, this mode stops YouTube from saving user information before the user watches a video. The transmission of data to YouTube Partners, however, is not necessarily prohibited through the activation of this mode. For example, YouTube will connect you to the Google DoubleClick Network irrespective of whether you watched a video.
 
-When starting a YoutTube video on our website, this creates a connection to the YouTube servers and initiates the transmission of information about the websites you have visited on serlo.org. If you are logged into a personal YouTube Account while doing so, this enables YouTube to directly relate your online activities to your personal profile. You can disable this by logging out from your YouTube Account before visiting our website. 
+When starting a YoutTube video on our website, this creates a connection to the YouTube servers and initiates the transmission of information about the websites you have visited on serlo.org. If you are logged into a personal YouTube Account while doing so, this enables YouTube to directly relate your online activities to your personal profile. You can disable this by logging out from your YouTube Account before visiting our website.
 
 Furthermore, starting a YouTube Video can cause YouTube to several different Cookies on your device. This enables YouTube to gather user data from our website. This information is used among other things to create video stats, improve user experience and prevent fraud. The Cookies will remain on your device until you delete them.
 
@@ -120,7 +120,7 @@ We use YouTube within the provisions of Art. 6 Abs. 1 lit. f GDPR, namely out of
 
 Our website uses plugins provided by the videoportal Vimeo. Provider of this service is Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
 
-When visiting one of our websites that are fitted with a Vimeo plugin, this creates a connection to the Vimeo servers located in the US and initiates the transmission of information about the websites you have visited on serlo.org. It also shares your IP address with Vimeo. This will happen regardless of whether you are logged into your Vimeo account and whether you are even registered with Vimeo. 
+When visiting one of our websites that are fitted with a Vimeo plugin, this creates a connection to the Vimeo servers located in the US and initiates the transmission of information about the websites you have visited on serlo.org. It also shares your IP address with Vimeo. This will happen regardless of whether you are logged into your Vimeo account and whether you are even registered with Vimeo.
 
 If you are logged into a personal Vimeo account while accessing a Vimeo plugin fitted website, this enables Vimeo to directly relate your online activities to your personal profile. You can disable this by logging off from your Vimeo account before visiting our website.
 
@@ -142,23 +142,23 @@ You can find more information about Google Web Fonts [here](https://developers.g
 
 We use Google reCAPTCHA (referred to as ‘reCAPTCHA’ in the following) on our websites. This service is provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”).
 
-We use reCAPTCHA to verify, whether input on our website is contributed by a human or an automated machine (e.g. in a contact form). To do this, reCAPTCHA analysis the behaviour of website visitors with regard to certain characteristics. The analysis is initiated automatically when a website user accesses the website and involves the processing of various kinds of data (e.g. IP address, duration of stay on website or cursor movements performed by the website visitor). The data captured in the process of this analysis are transmitted to Google. 
+We use reCAPTCHA to verify, whether input on our website is contributed by a human or an automated machine (e.g. in a contact form). To do this, reCAPTCHA analysis the behaviour of website visitors with regard to certain characteristics. The analysis is initiated automatically when a website user accesses the website and involves the processing of various kinds of data (e.g. IP address, duration of stay on website or cursor movements performed by the website visitor). The data captured in the process of this analysis are transmitted to Google.
 
 All reCAPTCHA analyses operate in the background and users are not made aware of the process.
 
-The use of this tool is justified by our legitimate interest to protect our services from improper or fraudulent use, spying software and spam in accordance with  the provisions of Art. 6 Abs. 1 lit. f GDPR. 
+The use of this tool is justified by our legitimate interest to protect our services from improper or fraudulent use, spying software and spam in accordance with  the provisions of Art. 6 Abs. 1 lit. f GDPR.
 
 Further information about Google reCAPTCHA and the privacy statement of Google you can access via the links: https://policies.google.com/privacy?hl=en und https://www.google.com/recaptcha.
 
 #### Registration on the Website
 
-You can create an account on our website to use additional features and functionalities. The data entered will be used only in order to provide the services or features for which you have registered. The information requested in the registration process must be completed fully, otherwise the registration will be rejected. 
+You can create an account on our website to use additional features and functionalities. The data entered will be used only in order to provide the services or features for which you have registered. The information requested in the registration process must be completed fully, otherwise the registration will be rejected.
 
 In case of important changes concerning the scope of our services or necessary technical adjustments we will use the e-mail adress provided upon registration to inform you of such changes.
 
-The processing of your data entered upon registration occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR. You can retract your consent at any time by way of a formless e-mail to [en@serlo.org](mailto:en@serlo.org). The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way. 
+The processing of your data entered upon registration occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR. You can retract your consent at any time by way of a formless e-mail to [en@serlo.org](mailto:en@serlo.org). The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
-The information provided during registration will remain saved and stored by us for as long as you hold an account on our website and will be deleted afterwards. Legally required retention periods are not affected by a deletion of your account. 
+The information provided during registration will remain saved and stored by us for as long as you hold an account on our website and will be deleted afterwards. Legally required retention periods are not affected by a deletion of your account.
 
 #### Activity data
 
@@ -249,7 +249,7 @@ You can preview Highrise’s Privacy Statement [here](https://highrisehq.com/pri
 
 The duration of the retention of your data depends on the nature of the respective data. All data will be deleted once Serlo Education no longer has a legitimate interest in the retention and processing of the data.
 
-The data of registered users will be stored as long as the corresponding user account is not deleted. When deleting a user profile, all related personal data will be deleted without delay. Anonymised data may be retained for user activity analysis and other statistical investigation relevant to the development and improvement of the product and activities of Serlo Education until no longer relevant.  
+The data of registered users will be stored as long as the corresponding user account is not deleted. When deleting a user profile, all related personal data will be deleted without delay. Anonymised data may be retained for user activity analysis and other statistical investigation relevant to the development and improvement of the product and activities of Serlo Education until no longer relevant.
 
 ### Your rights
 
@@ -263,14 +263,14 @@ Users of this website as well as registered users have the following rights:
 
 * Right to limited processing of personal data: You are entitled to request a limited processing of all or parts of your personal data. This applies in the following circumstances:
 
-    * When you contest the correctness of personal data held by us it may take us some time to verify this. For the duration of the verification process you are entitled to request the limitation of the processing of your personal data. 
-    * When your personal data has been or is being processed illegitimately, you can request the limitation of processing, instead of deletion, of this personal data.   
-    * When we no longer require your personal data, but you still require this data for the assertion, enforcement or protection of legal claims, you are entitled to request the limitation of processing, instead of deletion, of this personal data. 
-    * When you have voiced objection in accordance with Art. 21 Sec. 1 GDPR there may be a period where different interests are weighed and considered before a decision is reached. Until then you are entitled to request the limitation of processing of your personal data. 
+    * When you contest the correctness of personal data held by us it may take us some time to verify this. For the duration of the verification process you are entitled to request the limitation of the processing of your personal data.
+    * When your personal data has been or is being processed illegitimately, you can request the limitation of processing, instead of deletion, of this personal data.
+    * When we no longer require your personal data, but you still require this data for the assertion, enforcement or protection of legal claims, you are entitled to request the limitation of processing, instead of deletion, of this personal data.
+    * When you have voiced objection in accordance with Art. 21 Sec. 1 GDPR there may be a period where different interests are weighed and considered before a decision is reached. Until then you are entitled to request the limitation of processing of your personal data.
 
 * If you limit the processing of your personal data, we can process this data (beyond storage) only with your explicit consent or in order to assert, enforce or protect another natural or legal person’s legal claims, or in the light of an important public interest of the European Union or one of its member states.
 
-* Right to data transferability: You are entitled to receive your personal data held by us in a common, machine readable format and to transfer your data set to a third party. Should you request the transmission of your personal data to a third party by us, we will comply only if this is can be effected with reasonable time and effort with the technology in place.    
+* Right to data transferability: You are entitled to receive your personal data held by us in a common, machine readable format and to transfer your data set to a third party. Should you request the transmission of your personal data to a third party by us, we will comply only if this is can be effected with reasonable time and effort with the technology in place.
 
 * Right to deletion of your data: You have the right to undelayed and complete deletion of all your personal data.
 
