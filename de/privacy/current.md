@@ -205,7 +205,7 @@ Dazu verarbeitet Cloudfare unter anderen folgende personenbezogenen Daten:
 * die Uhrzeit der Serveranfrage
 * Cookies
 
-Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen. Cloudflare ist unter dem [EU-US Datenschutzabkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
+Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Cloudflare einen Vertrag über die Auftragsverarbeitung abgeschlossen. Cloudflare ist unter dem [EU-US Datenschutzabkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
 Die Datenschutzerklärung von Cloudflare findest Du unter [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
 
