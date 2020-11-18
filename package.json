@@ -1,0 +1,21 @@
+{
+  "name": "@serlo/serlo.org-legal",
+  "version": "0.0.0",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/serlo/serlo.org-legal/issues"
+  },
+  "repository": "serlo/serlo.org-legal",
+  "license": "UNLICENSED",
+  "author": "Serlo Education e.V.",
+  "scripts": {
+    "format": "prettier . --write"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.0",
+    "prettier-plugin-packagejson": "^2.0.0"
+  },
+  "engines": {
+    "node": "^12.0.0"
+  }
+}

@@ -1,15 +1,13 @@
-Warum erfassen wir personenbezogene Daten
------------------------------------------
+## Warum erfassen wir personenbezogene Daten
 
 Serlo.org verarbeitet personenbezogene Daten zu folgenden Zwecken:
 
-* um die Dienste von Serlo anzubieten und verbessern zu können,
-* um zu verstehen, wie Besucher\*innen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere Besucher\*innen analysieren,
-* um Feedback zu unseren Lehrinhalten zu erhalten und diese verbessern und weiterentwickeln zu können.
-* um die Arbeit in unserer Community zu organisieren und in Kontakt mit Autor\*innen treten.
+- um die Dienste von Serlo anzubieten und verbessern zu können,
+- um zu verstehen, wie Besucher\*innen Serlo.org nutzen; dadurch können wir sicherstellen, dass Serlo.org ordnungsgemäß funktioniert, wir können neue Nutzungsmöglichkeiten und Features entwickeln und die Art und Weise der Nutzung von Serlo.org durch unsere Besucher\*innen analysieren,
+- um Feedback zu unseren Lehrinhalten zu erhalten und diese verbessern und weiterentwickeln zu können.
+- um die Arbeit in unserer Community zu organisieren und in Kontakt mit Autor\*innen treten.
 
-Wie erfassen und verarbeiten wir personenbezogene Daten
--------------------------------------------------------
+## Wie erfassen und verarbeiten wir personenbezogene Daten
 
 Serlo.org nutzt externe Dienstleister zur Erfassung und Verarbeitung der erhobenen personenbezogenen Daten. Im Folgenden werden diese Dienstleister und deren Funktionsweise aufgeführt.
 
@@ -23,18 +21,18 @@ Die meisten der von uns verwendeten Cookies sind so genannte „Session-Cookies�
 
 Du kannst Deinen Browser so einstellen, dass Du über das Setzen von Cookies informiert wirst und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
 
-Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Unser berechtigtes Interesse an der Speicherung von Cookies liegt in der Ermöglichung einer  technisch fehlerfreien und optimierten Bereitstellung unserer Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Deines Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.
+Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zur Bereitstellung bestimmter, von Dir erwünschter Funktionen erforderlich sind, werden auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO gespeichert. Unser berechtigtes Interesse an der Speicherung von Cookies liegt in der Ermöglichung einer technisch fehlerfreien und optimierten Bereitstellung unserer Dienste. Soweit andere Cookies (z.B. Cookies zur Analyse Deines Surfverhaltens) gespeichert werden, werden diese in dieser Datenschutzerklärung gesondert behandelt.
 
 #### Server-Log-Dateien
 
 Wir als Provider der Webseiten erheben und speichern automatisch Informationen in so genannten Server-Log-Dateien, die Dein Browser automatisch an uns übermittelt. Dies sind:
 
-* Browsertyp und Browserversion
-* verwendetes Betriebssystem
-* Referrer URL
-* Hostname des zugreifenden Rechners
-* Uhrzeit der Serveranfrage
-* IP-Adresse
+- Browsertyp und Browserversion
+- verwendetes Betriebssystem
+- Referrer URL
+- Hostname des zugreifenden Rechners
+- Uhrzeit der Serveranfrage
+- IP-Adresse
 
 Eine Zusammenführung dieser Daten mit anderen personenbezogenen Datenquellen wird nicht vorgenommen.
 
@@ -44,14 +42,14 @@ Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 Diese Webseite nutzt den Webanalysedienst [Hotjar](https://www.hotjar.com/). Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta. Hotjar verwendet sog. „Cookies“, Textdateien, die auf Deinem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Dich ermöglichen. Die so gesammelten Informationen umfassen
 
-* die IP-Adresse,
-* den Gerätetyp,
-* den Browser-Typ / die Browser-Version
-* Deinen Standort (nur Land)
+- die IP-Adresse,
+- den Gerätetyp,
+- den Browser-Typ / die Browser-Version
+- Deinen Standort (nur Land)
 
 Die durch den Cookie erzeugten Informationen über Deine Benutzung dieser Webseite werden in der Regel an einen Server von Hotjar in Irland übertragen und dort gespeichert. Die im Rahmen von Hotjar von Deinem Browser übermittelte IP-Adresse wird pseudonymisiert und nicht mit anderen Daten von Hotjar zusammengeführt. Die gesammelten Daten werden in einem pseudonymisierten Nutzerprofil gespeichert und weder von uns noch von Hotjar zur Identifizierung einzelner Nutzer verwendet. Die Verarbeitungtätigkeit von Hotjar in unserem Auftrag geschieht auf Grundlage eines Vertrags über Auftragsverarbeitung, den wir mit Hotjar abgeschlossen haben. Dieser verpflichtet Hotjar, die europäischen Datenschutzvorschriften umzusetzen.
 
-Die durch Hotjar vorgenommene Analyse beinhaltet die Aufzeichnung von Maus- und Scrollbewegungen sowie Klicks. Hotjar kann dabei auch feststellen, wie lange Du mit dem Mauszeiger auf einer bestimmten Stelle verblieben bist. So können Heatmaps erstellte werden, die es uns erlauben festzustellen, welche Webseitenbereiche von BesucherInnen favorisiert werden. Des weiteren können wir feststellen, wie lange Du auf einer Seite verblieben bist und wann Du sie verlassen hast. Wir können auch feststellen, an welcher Stelle Du Deine Eingaben in ein Kontaktformular abgebrochen hast. Außerdem besteht die Möglichkeit, über Hotjar direktes Feedback von Besucher*innen unserer Webseite einzuholen.
+Die durch Hotjar vorgenommene Analyse beinhaltet die Aufzeichnung von Maus- und Scrollbewegungen sowie Klicks. Hotjar kann dabei auch feststellen, wie lange Du mit dem Mauszeiger auf einer bestimmten Stelle verblieben bist. So können Heatmaps erstellte werden, die es uns erlauben festzustellen, welche Webseitenbereiche von BesucherInnen favorisiert werden. Des weiteren können wir feststellen, wie lange Du auf einer Seite verblieben bist und wann Du sie verlassen hast. Wir können auch feststellen, an welcher Stelle Du Deine Eingaben in ein Kontaktformular abgebrochen hast. Außerdem besteht die Möglichkeit, über Hotjar direktes Feedback von Besucher\*innen unserer Webseite einzuholen.
 
 Du kannst das Hotjar-Tracking jederzeit deaktivieren (und somit die Erfassung der durch das Cookie erzeugten und auf Deine Nutzung der Webseite bezogenen Daten inklusive Deiner IP-Adresse durch Hotjar sowie die Verarbeitung dieser Daten durch Hotjar verhindern), indem Du die Anleitung auf [Hotjar ausschalten](https://www.hotjar.com/legal/compliance/opt-out) befolgst. Es wird ein Opt-Out-Cookie gesetzt, der die zukünftige Erfassung Deiner Daten beim Besuch dieser Website verhindert. Dieser Cookie gilt nur für diesen Browser und ausschließlich für den Besuch unserer Webseite und muss im Falle eines Löschens der Cookies neu gesetzt werden.
 
@@ -63,11 +61,11 @@ Die Benutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f. DSGVO. Unser berec
 
 Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Deinem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Dich ermöglichen. Die gesammelten Informationen umfassen
 
-* den Browser-Typ/-Version,
-* das verwendete Betriebssystem,
-* die Referrer-URL (die zuvor besuchte Seite),
-* die IP-Adresse,
-* die Uhrzeit der Serveranfrage.
+- den Browser-Typ/-Version,
+- das verwendete Betriebssystem,
+- die Referrer-URL (die zuvor besuchte Seite),
+- die IP-Adresse,
+- die Uhrzeit der Serveranfrage.
 
 Diese Daten werden auf Servern von Google in den USA übertragen und dort gespeichert. Die im Rahmen von Google Analytics von Deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Wir haben Google Analytics zudem mit dem Code „anonymizeIP” konfiguriert, sodass die IP-Addresse von Google noch innerhalb der Europäischen Union oder eines anderen Vertragstaats der Datenschutzgrundverordnung vor der Übermittlung in die USA gekürzt wird. Dadurch werden alle gesammelten Daten anonym erhoben. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
 
@@ -91,11 +89,11 @@ Diese Webseite nutzt den Dienst [Sentry](https://sentry.io), um die technische S
 
 Die gesammelten Informationen umfassen:
 
-* den Browser-Typ/-Version,
-* den Geräte-Typ,
-* das verwendete Betriebssystem,
-* die URL der Seite, auf der ein Fehler aufgetreten ist,
-* die Uhrzeit der Serveranfrage.
+- den Browser-Typ/-Version,
+- den Geräte-Typ,
+- das verwendete Betriebssystem,
+- die URL der Seite, auf der ein Fehler aufgetreten ist,
+- die Uhrzeit der Serveranfrage.
 
 Diese Daten werden bei Auftreten von Fehlern an die Server von Sentry in den USA übertragen.
 
@@ -139,8 +137,8 @@ Wir verwenden auf unserer Webseite die „Google benutzerdefinierte Suche“ (Go
 
 Es werden grundsätzlich keine Daten an den Anbieter des Suchdienstes (Google) übertragen, wenn unsere Seiten aufgerufen werden, in denen die "Google benutzerdefinierte Suche" eingebunden ist. Daten werden erst an Google übertragen, nachdem der Nutzer die Such-Box durch Anklicken aktiviert hat. Durch eine Nutzung der Suchfunktion werden gleichzeitig auch Daten der Nutzer an Google übertragen. Die betrifft unter anderen:
 
-* die von dir eingegebenen Suchbegriffe
-* die IP-Adresse des benutzten Rechners
+- die von dir eingegebenen Suchbegriffe
+- die IP-Adresse des benutzten Rechners
 
 Mit der Benutzung der Volltext-Suche und dem damit einhergehenden Anklicken der Such-Box stimmen Sie der Nutzung des Google-Suchdienstes und damit auch der Übertragung von Daten an den Google-Service zu. Google ist nach dem [Privacy-Shield-Abkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI) und ist damit an die Vorgaben des europäischen Datenschutzrechts gebunden. Wir weisen Sie ausdrücklich darauf hin, dass die Verarbeitung, insbesondere die Speicherung, Löschung und Nutzung von möglicherweise übertragenen personenbezogenen Daten dem Anbieter des Suchdienstes obliegt und wir auf die Art und den Umfang der übertragenen Daten sowie über deren weitere Verarbeitung keinen Einfluss haben.
 
@@ -198,12 +196,12 @@ Diese Webseite nutzt Dienste von [Cloudflare, Inc.](https://www.cloudflare.com/)
 
 Dazu verarbeitet Cloudfare unter anderen folgende personenbezogenen Daten:
 
-* den Browser-Typ/-Version,
-* das verwendete Betriebssystem,
-* die Referrer-URL (die zuvor besuchte Seite),
-* die IP-Adresse,
-* die Uhrzeit der Serveranfrage
-* Cookies
+- den Browser-Typ/-Version,
+- das verwendete Betriebssystem,
+- die Referrer-URL (die zuvor besuchte Seite),
+- die IP-Adresse,
+- die Uhrzeit der Serveranfrage
+- Cookies
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Cloudflare einen Vertrag über die Auftragsverarbeitung abgeschlossen. Cloudflare ist unter dem [EU-US Datenschutzabkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
@@ -215,12 +213,12 @@ Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Die 
 
 Diese Webseite nutzt den Dienst [Vercel](https://vercel.com/). Der Anbieter ist Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA. Vercel ist eine Cloudplattform, über die wir unsere Webseite bereitstellen. Das bedeutet, dass der Besuch unser Webseite durch die Server von Vercel bearbeitet oder durchgeleitet wird. Die mit deinem Besuch unserer Webseite verbundenen Daten werden auch an Vercel übermittelt. Dies ist notwendig, damit Deine Browseranfrage erfolgreich bearbeitet werden kann. Diese Daten umfassen:
 
-* den Browser-Typ/-Version,
-* das verwendete Betriebssystem,
-* die Referrer-URL (die zuvor besuchte Seite),
-* die IP-Adresse,
-* die Uhrzeit der Serveranfrage
-* Cookies
+- den Browser-Typ/-Version,
+- das verwendete Betriebssystem,
+- die Referrer-URL (die zuvor besuchte Seite),
+- die IP-Adresse,
+- die Uhrzeit der Serveranfrage
+- Cookies
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen. Außerdem ist Vercel unter dem [EU-US Datenschutzabkommen zertifiziert](https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&status=Active) und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen.
 
@@ -266,13 +264,13 @@ Die Datenschutzerklärung von Stripe findest Du [hier](https://stripe.com/de/pri
 
 Diese Webseite nutzt zur Verarbeitung von Spendenaufträgen twingle, eine Online Fundraising Software der twingle GmbH, welche in Deutschland, Berlin ansässig ist. Die gespeicherten Daten umfassen:
 
-* den Browser-Typ/-Version
-* den Gerätetyp
-* die IP-Adresse
-* das Datum der Spende
-* den Spendenbetrag
-* den Spendenrhythmus
-* Deine Kontaktdaten sowie die Zahlungsart
+- den Browser-Typ/-Version
+- den Gerätetyp
+- die IP-Adresse
+- das Datum der Spende
+- den Spendenbetrag
+- den Spendenrhythmus
+- Deine Kontaktdaten sowie die Zahlungsart
 
 Die Daten werden auf Servern in Deutschland gespeichert. twingle nutzt die erhobenen personenbezogenen Daten um dem Auftrag der Spendenverarbeitung nachzukommen. Zudem erfolgt eine anonymisierte Auswertung der gespeicherten Spender- und Spendendaten durch twingle zu statistischen Zwecken und der Verwertung der Auswertungsergebnisse durch twingle.
 
@@ -290,9 +288,9 @@ Die Datenschutzbestimmungen von Google findest Du [hier](https://policies.google
 
 Wenn Du dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Highrise gespeichert. Highrise ist ein Customer-Relationship-Management Dienst welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
 
-* Deine Kontaktdaten,
-* die Höhe und den Rhythmus Deiner Spende
-* seit wann Du spendest.
+- Deine Kontaktdaten,
+- die Höhe und den Rhythmus Deiner Spende
+- seit wann Du spendest.
 
 Highrise nutzt diese Daten nicht und gibt sie grundsätzlich auch nicht weiter. Highrise gibt gespeicherte Daten nur weiter, (i) mit Einwilligung seitens Serlo.org, (ii) um gesetzlichen Verpflichtungen nachzukommen oder (iii) im Falle eines Verkaufs des Unternehmens, einer Fusion mit einem anderen Unternehmen oder ähnlichen geschäftlichen Interaktionen.
 
@@ -338,29 +336,28 @@ Die Daten registrierter NutzerInnen werden solange gespeichert wie das Nutzerpro
 
 BesucherInnen der Webseite sowie registrierte NutzerInnen haben folgende Rechte:
 
-* Recht auf Zugang zu Deinen Daten: Du hast das Recht unentgeltlich zu erfahren, welche personenbezogenen Daten verarbeitet werden, deren Herkunft und Empfänger sowie Zugang zu diesen Daten zu erhalten.
+- Recht auf Zugang zu Deinen Daten: Du hast das Recht unentgeltlich zu erfahren, welche personenbezogenen Daten verarbeitet werden, deren Herkunft und Empfänger sowie Zugang zu diesen Daten zu erhalten.
 
-* Recht auf Korrektur Deiner Daten: Das Recht eine Berichtigung unrichtiger Daten zu verlangen sowie das Recht, eine Vervollständigung unvollständiger personenbezogener Daten zu verlangen.
+- Recht auf Korrektur Deiner Daten: Das Recht eine Berichtigung unrichtiger Daten zu verlangen sowie das Recht, eine Vervollständigung unvollständiger personenbezogener Daten zu verlangen.
 
-* **Recht auf Widerspruch gegen die Datenverarbeitung: Erfolgt die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO, hast du jederzeit das Recht aufgrund deiner persönlichen Situation Widerspruch gegen die Verarbeitung personenbezogener Daten einzulegen. Die jeweiligen Rechtsgrundlage, aufgrund derer die Verarbeitung erfolgt ist dieser Datenschutzerklärung zu entnehmen. Wenn du Widerspruch einlegst, werden deine personenbezogenen Daten nicht weiter verarbeitet, außer es liegen unsererseits legitime Gründe zur Verarbeitung der Daten vor. Diese legitimen Gründe umfassen auch die Geltendmachung, Ausübung und Verteidigung von Rechtsansprüchen.**
+- **Recht auf Widerspruch gegen die Datenverarbeitung: Erfolgt die Datenverarbeitung auf Grundlage von Art. 6 Abs. 1 lit. e oder f DSGVO, hast du jederzeit das Recht aufgrund deiner persönlichen Situation Widerspruch gegen die Verarbeitung personenbezogener Daten einzulegen. Die jeweiligen Rechtsgrundlage, aufgrund derer die Verarbeitung erfolgt ist dieser Datenschutzerklärung zu entnehmen. Wenn du Widerspruch einlegst, werden deine personenbezogenen Daten nicht weiter verarbeitet, außer es liegen unsererseits legitime Gründe zur Verarbeitung der Daten vor. Diese legitimen Gründe umfassen auch die Geltendmachung, Ausübung und Verteidigung von Rechtsansprüchen.**
 
-* Recht auf eingeschränkte Datenverarbeitung: Du hast das Das Recht eine Einschränkung der Verarbeitung aller oder eines Teils der personenbezogenen Daten zu verlangen. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
+- Recht auf eingeschränkte Datenverarbeitung: Du hast das Das Recht eine Einschränkung der Verarbeitung aller oder eines Teils der personenbezogenen Daten zu verlangen. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:
 
-    * Wenn Du die Richtigkeit Deiner bei uns gespeicherten personenbezogenen Daten bestreitest, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
-    * Wenn die Verarbeitung Deiner personenbezogenen Daten unrechtmäßig geschah / geschieht, kannst Du statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
-    * Wenn wir Deine personenbezogenen Daten nicht mehr benötigen, Du sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigst, hast Du das Recht, statt der Löschung die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
-    * Wenn Du einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt hast, muss eine Abwägung zwischen Deinen und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
+  - Wenn Du die Richtigkeit Deiner bei uns gespeicherten personenbezogenen Daten bestreitest, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
+  - Wenn die Verarbeitung Deiner personenbezogenen Daten unrechtmäßig geschah / geschieht, kannst Du statt der Löschung die Einschränkung der Datenverarbeitung verlangen.
+  - Wenn wir Deine personenbezogenen Daten nicht mehr benötigen, Du sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigst, hast Du das Recht, statt der Löschung die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
+  - Wenn Du einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt hast, muss eine Abwägung zwischen Deinen und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, hast Du das Recht, die Einschränkung der Verarbeitung Deiner personenbezogenen Daten zu verlangen.
 
-    Wenn Du die Verarbeitung Deiner personenbezogenen Daten eingeschränkt hast, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Deiner Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
+  Wenn Du die Verarbeitung Deiner personenbezogenen Daten eingeschränkt hast, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Deiner Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden.
 
-* Recht auf Datenübertragbarkeit: Das Recht die von uns gesammelten personenbezogenen Daten in einem gängigen, maschinenlesbaren Format zu erhalten sowie das Recht diese Daten einer anderen Partei zu übermitteln. Sofern Du die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangst, erfolgt dies nur, soweit es technisch machbar ist.
+- Recht auf Datenübertragbarkeit: Das Recht die von uns gesammelten personenbezogenen Daten in einem gängigen, maschinenlesbaren Format zu erhalten sowie das Recht diese Daten einer anderen Partei zu übermitteln. Sofern Du die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangst, erfolgt dies nur, soweit es technisch machbar ist.
 
-* Recht auf Löschung / „Vergessenwerden”: Das Recht auf unverzügliche und vollständige Löschung aller personenbezogenen Daten.
+- Recht auf Löschung / „Vergessenwerden”: Das Recht auf unverzügliche und vollständige Löschung aller personenbezogenen Daten.
 
-* Das Recht auf Beschwerde bei einer Aufsichtsbehörde: Im Falle von Verstößen gegen die DSGVO steht dir ein Beschwerderecht bei einer Aufsichtsbehörde zu. Diese geht der Beschwerde nach und unterrichtet dich über das Ergebnis.
+- Das Recht auf Beschwerde bei einer Aufsichtsbehörde: Im Falle von Verstößen gegen die DSGVO steht dir ein Beschwerderecht bei einer Aufsichtsbehörde zu. Diese geht der Beschwerde nach und unterrichtet dich über das Ergebnis.
 
-* Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
-
+- Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe.
 
 Wenn Du Fragen, Sorgen oder Anregungen über den Umgang von serlo.org mit personenbezogenen Daten hast, dann schreib uns bitte an:
 

@@ -1,15 +1,13 @@
-Why we capture personal data
-----------------------------
+## Why we capture personal data
 
 Serlo.org processes personal data for the following purposes:
 
-* to provide and improve the services of serlo.org
-* to analyse and thus gain understanding of how users use serlo.org; this is important in order to ensure that serlo.org works properly and to develop useful new features and functionalities
-* to collect feedback on our content, which enables us to improve and further develop the platform
-* in order to organize the work in our community and establish contact with our authors
+- to provide and improve the services of serlo.org
+- to analyse and thus gain understanding of how users use serlo.org; this is important in order to ensure that serlo.org works properly and to develop useful new features and functionalities
+- to collect feedback on our content, which enables us to improve and further develop the platform
+- in order to organize the work in our community and establish contact with our authors
 
-How we capture and process personal data
-----------------------------------------
+## How we capture and process personal data
 
 Serlo.org uses external providers for capturing and processing of the relevant personal data. In the following these external providers and the way of working will be identified and described.
 
@@ -29,12 +27,12 @@ Cookies for the provision of the electronic communication-procedure or for the p
 
 We as the provider of the websites collect and save automatically all information in the so called server-log files that your browser automatically transmits to us. These are:
 
-* browser type and browser version
-* operating system
-* referrer URL
-* hostname of the accessing device
-* time of the server request
-* IP address
+- browser type and browser version
+- operating system
+- referrer URL
+- hostname of the accessing device
+- time of the server request
+- IP address
 
 There is no consolidation of this data with any other personal data we may hold on you.
 
@@ -44,10 +42,10 @@ The collection of this data is based on Art. 6 Sec. 1 lit. f DSGVO. Our legitima
 
 This website uses the web-analysis tool [Hotjar](https://www.hotjar.com/). Provider is the Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe. Hotjar uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information thus gathered includes:
 
-* IP address
-* device type
-* browser type/browser version
-* your location (country only)
+- IP address
+- device type
+- browser type/browser version
+- your location (country only)
 
 The information procured from the cookie about your use of this website is usually transmitted to a server of Hotjar in Ireland and saved there. Your IP address, that is transmitted from your browser, is pseudonymised and not consolidated with any other data of Hotjar. The collected data are saved in a user profile under a pseudonym that is not used, by either Hotjar or us, to identify single users. In addition, the processing activities by Hotjar are carried out on the basis of a data processing agreement with us. Hotjar is therefor contractually obliged to comply with the European General Data Protection Regulation.
 
@@ -63,12 +61,12 @@ The use of Hotjar is based on on Art. 6 Sec. 1 lit. f DSGVO. Our legitimate inte
 
 This website uses tools of the web analytics tool Google Analytics. Provider is the Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google Analytics uses so called “Cookies”, text files that are saved on your computer and that allow an analysis of your use of the website. The information collected includes:
 
-* IP address
-* device type
-* browser type/browser version
-* used operating system
-* referrer URL (previously visited website)
-* time of server request
+- IP address
+- device type
+- browser type/browser version
+- used operating system
+- referrer URL (previously visited website)
+- time of server request
 
 This data is transmitted to servers of Google in the USA and saved there. The IP address transmitted from your browser is not merged with other data from Google. We also configured Google Analytics with the code „anonymizeIP”, so that the IP address is shortened by Google while still within the European Union or another state in which the European General Data Protection Regulation (GDPR) is applicable. This way, all collected data is completely anonymised. In exceptional cases, the full IP address may be transmitted to a Google server in the US and shortened there.
 
@@ -76,7 +74,7 @@ This website uses the Google Analytics function “demographic characteristics�
 
 Google will use the information collected to evaluate on our behalf your use of serlo.org, to create reports about the website activity and render further services connected to the web and website activity to us.
 
-Generally, Google will not make this information available to third parties. In some exceptional cases Google may pass on this information to third parties. These cases include i) with the consent of the website provider (us), ii) legal obligation or the protection of rights, property and/or safety of Google, its users or the public or iii) when required  for Google to fulfill its obligations. As per point (iii), any third party involved is contractually obliged to process your data exclusively as instructed, in accordance with this privacy agreement and under application of adequate data protection and safety measures.
+Generally, Google will not make this information available to third parties. In some exceptional cases Google may pass on this information to third parties. These cases include i) with the consent of the website provider (us), ii) legal obligation or the protection of rights, property and/or safety of Google, its users or the public or iii) when required for Google to fulfill its obligations. As per point (iii), any third party involved is contractually obliged to process your data exclusively as instructed, in accordance with this privacy agreement and under application of adequate data protection and safety measures.
 
 Google has signed a data processing agreement governed by the European General Data Protection Regulation with us and is fully compliant with the strictest standards of the German Data Protection Agency in its application of Google Analytics. Moreover, Google Analytics is certified under the EU-US Data Protection Agreement and thereby obliged to abide by EU data protection legislation.
 
@@ -88,11 +86,11 @@ The use of Google Analytics occurs on the basis of our legitimate interest in th
 
 This website uses the third-party service [Sentry](https://sentry.io/) to improve the technical stability of our services through monitoring of system stability and identification of dysfunctional code. Provider of this service is Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107, USA. The information collected includes:
 
-* browser type and version
-* device type
-* operating system
-* URL of the website which displayed a disfunction
-* time of the server request
+- browser type and version
+- device type
+- operating system
+- URL of the website which displayed a disfunction
+- time of the server request
 
 In case of error or disfunction, this data will be transmitted to the Sentry server located in the USA.
 
@@ -136,8 +134,8 @@ We use on our website the Google Custom Search Engine „Google CSE“ as our ce
 
 Generally, no personal data is transmitted to the provider of the search service (Google) if websites are viewed that contain the Google Custom Search Engine. Data will only be send via this functionality to the provider of the search service (Google) after the user activates the search box by clicking on it. By using the search box personal data is send to Google. This includes:
 
-* the search terms you are using
-* your IP address
+- the search terms you are using
+- your IP address
 
 With the usage of our search service you also accept the usage of the Google Custom Search and the transfer of data to Google. Google is [certified under the EU-US Data Protection Agreement](https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI) and thereby obliged to observe EU data protection legislation. We expressly point out the the processing of personal data, in particular the retention, deletion and usage falls under the responsibility of the provider of the search service. We do not have any influence over the nature and scope of the data transmitted nor its further processing.
 
@@ -163,7 +161,7 @@ We use reCAPTCHA to verify, whether input on our website is contributed by a hum
 
 All reCAPTCHA analyses operate in the background and users are not made aware of the process.
 
-The use of this tool is justified by our legitimate interest to protect our services from improper or fraudulent use, spying software and spam in accordance with  the provisions of Art. 6 Abs. 1 lit. f GDPR.
+The use of this tool is justified by our legitimate interest to protect our services from improper or fraudulent use, spying software and spam in accordance with the provisions of Art. 6 Abs. 1 lit. f GDPR.
 
 Further information about Google reCAPTCHA and the privacy statement of Google you can access via the links: https://policies.google.com/privacy?hl=en und https://www.google.com/recaptcha.
 
@@ -193,12 +191,12 @@ You can preview Google’s Privacy Statement [here](https://policies.google.com/
 
 This website uses the service by [Cloudflare, Inc.](https://www.cloudflare.com/), located in 101 Townsend St, San Francisco, CA 94107, USA. This website uses cloudflare as a content delivery network and a proxy for all website requests. This means that each visit to our website will be handled or delivered through Cloudflare. Each personal data you send to our website will therefore also be transmitted to Cloudflare. This is necessary in order to handle your browser requests to our site. The transmitted information include:
 
-* browser type/browser version
-* used operating system
-* referrer URL (previously visited website)
-* IP address
-* time of server request
-* cookies
+- browser type/browser version
+- used operating system
+- referrer URL (previously visited website)
+- IP address
+- time of server request
+- cookies
 
 Depending on the server location, these information may also be send to the USA. Cloudflare has [signed a data processing agreement](https://www.privacyshield.gov/participant?id=a2zt0000000GnZKAA0&status=Active) governed by the European General Data Protection Regulation with us. Cloudflare is certified under the EU-US Data Protection Agreement and thereby obliged to observe EU data protection legislation.
 
@@ -210,12 +208,12 @@ The collection of this data is based on Art. 6 Sec. 1 lit. f DSGVO. We as the we
 
 This website uses the service by [Vercel](https://vercel.com/). Provider is Vercel Inc., 340 S Lemon Ave #4133, Walnut, CA 91789, USA. Vercel is a cloud platform, through which we make our website available. This means that each visit to our website will be handled or delivered through Vercel. Personal data you send to our website will therefore also be transmitted to Vercel. This is necessary in order to handle your browser requests to our site. The transmitted information include:
 
-* browser type/browser version
-* used operating system
-* referrer URL (previously visited website)
-* IP address
-* time of server request
-* cookies
+- browser type/browser version
+- used operating system
+- referrer URL (previously visited website)
+- IP address
+- time of server request
+- cookies
 
 Depending on the server location, these information may also be sent to the USA. Vercel has [signed a data processing agreement](https://www.privacyshield.gov/participant?id=a2zt0000000TTIbAAO&status=Active) governed by the European General Data Protection Regulation with us. Moreover, Vercel is certified under the EU-US Data Protection Agreement and thereby obliged to observe EU data protection legislation.
 
@@ -227,11 +225,11 @@ The collection of this data is based on Art. 6 Sec. 1 lit. f DSGVO. The delivery
 
 #### PayPal
 
-We use PayPal as a means of payment on our website. This service is provided by  PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg („PayPal”).
+We use PayPal as a means of payment on our website. This service is provided by PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg („PayPal”).
 
 If you choose to make a donation using PayPal, your payment details will be transmitted to PayPal.
 
-This occurs in accordance with the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR  (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+This occurs in accordance with the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview PayPal’s Privacy Statement [here](https://www.paypal.com/de/webapps/mpp/ua/privacy-full?locale.x=en_EN).
 
@@ -245,7 +243,7 @@ If you choose to make a donation using Sofortüberweisung, your PIN and a valid 
 
 Besides your PIN and TAN, information transmitted to Klarna also includes your payment details and personal details you may have entered. This may include your first and last name, address, phone number(s), email address, IP address and further data necessary for the processing of the transaction. This is necessary to confirm beyond reasonable doubt your identity in order to prevent fraud.
 
-The transmission of your data to Klarna GmbH is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR  (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+The transmission of your data to Klarna GmbH is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview Klarna’s privacy statement [here](https://www.klarna.com/sofort/privacy-policy/).
 
@@ -253,7 +251,7 @@ You can preview Klarna’s privacy statement [here](https://www.klarna.com/sofor
 
 This website uses services provided by Stripe Inc (‘Stripe’), 510 Townsend Street, San Francisco, CA 94103 to process credit card payments. The data entered in the donation process, namely the amount and rhythm of your donation as well as your contact and credit card details will be transmitted to Stripe and stored on their US servers. Stripe uses this data to effect the transaction and to carry out measures to avoid fraud.
 
-The transmission of your data to Klarna GmbH is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR  (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+The transmission of your data to Klarna GmbH is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview Stripe’s privacy statement [here](https://stripe.com/en-de/privacy).
 
@@ -261,18 +259,18 @@ You can preview Stripe’s privacy statement [here](https://stripe.com/en-de/pri
 
 This website uses twingle in order to process donations. Twingle is an online fundraising software provided by the twingle GmbH, based in Berlin, Germany. The data captured by this software comprise:
 
-* browser type
-* device type
-* IP address
-* date of donation
-* donation amount
-* donation cycle
-* your contact data
-* your payment type
+- browser type
+- device type
+- IP address
+- date of donation
+- donation amount
+- donation cycle
+- your contact data
+- your payment type
 
 This data is saved on servers located in Germany. Twingle uses the personal data in order to process donations within our contractual agreement. Furthermore, twingle analyses anonymised data for reporting and statistical purposes as well as further use and processing by twingle.
 
-The transmission of your data to twingle is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. f GDPR  (legitimate interest). You can retract your consent at any time by retracting your donation. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+The transmission of your data to twingle is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. f GDPR (legitimate interest). You can retract your consent at any time by retracting your donation. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview twingle’s privacy statement [here](https://www.twingle.de/datenschutz/).
 
@@ -286,9 +284,9 @@ You can preview Google’s Privacy Statement [here](https://policies.google.com/
 
 When you decide to make a donation to us through our donation form, we will save the data provided on Highrise. Highrise is a US-based constituent relationship management service. The data we save comprise:
 
-* your contact data
-* the amount, cycle and date of your donation
-* when you started donating
+- your contact data
+- the amount, cycle and date of your donation
+- when you started donating
 
 Highrise does not use and does not usually pass on your data. Only in exceptional cases, namely i) with our consent, ii) to oblige with legal requirements or iii) in case of merger of acquisition of Highrise with a different enterprise or similar business transactions, may Highrise share data with third parties.
 
@@ -306,28 +304,27 @@ The data of registered users will be stored as long as the corresponding user ac
 
 Users of this website as well as registered users have the following rights:
 
-* Right to access your data: You have the right to be informed free of charge about the personal data we hold on you, how we received and process them and to access this data.
+- Right to access your data: You have the right to be informed free of charge about the personal data we hold on you, how we received and process them and to access this data.
 
-* Right to have your data corrected: You have the right to request the correction of incorrect data and the right to request the completion of incomplete personal data.
+- Right to have your data corrected: You have the right to request the correction of incorrect data and the right to request the completion of incomplete personal data.
 
-* **Right to object to processing of your data: where the processing of your data occurs on the basis of Art. 6 Sec. 1 lit.e or f GDPR you are entitled to object to the processing of your personal data based on your personal situation. You can find the legal basis for the processing of your data in this privacy policy. When you retract your consent or voice objection to to the processing of your personal, data we will cease to process your personal data, except in cases where we have legitimate reasons to persist. Such legitimate reasons may include among other things the enforcement, execution and protection of legal claims.**
+- **Right to object to processing of your data: where the processing of your data occurs on the basis of Art. 6 Sec. 1 lit.e or f GDPR you are entitled to object to the processing of your personal data based on your personal situation. You can find the legal basis for the processing of your data in this privacy policy. When you retract your consent or voice objection to to the processing of your personal, data we will cease to process your personal data, except in cases where we have legitimate reasons to persist. Such legitimate reasons may include among other things the enforcement, execution and protection of legal claims.**
 
-* Right to limited processing of personal data: You are entitled to request a limited processing of all or parts of your personal data. This applies in the following circumstances:
+- Right to limited processing of personal data: You are entitled to request a limited processing of all or parts of your personal data. This applies in the following circumstances:
 
-    * When you contest the correctness of personal data held by us it may take us some time to verify this. For the duration of the verification process you are entitled to request the limitation of the processing of your personal data.
-    * When your personal data has been or is being processed illegitimately, you can request the limitation of processing, instead of deletion, of this personal data.
-    * When we no longer require your personal data, but you still require this data for the assertion, enforcement or protection of legal claims, you are entitled to request the limitation of processing, instead of deletion, of this personal data.
-    * When you have voiced objection in accordance with Art. 21 Sec. 1 GDPR there may be a period where different interests are weighed and considered before a decision is reached. Until then you are entitled to request the limitation of processing of your personal data.
+  - When you contest the correctness of personal data held by us it may take us some time to verify this. For the duration of the verification process you are entitled to request the limitation of the processing of your personal data.
+  - When your personal data has been or is being processed illegitimately, you can request the limitation of processing, instead of deletion, of this personal data.
+  - When we no longer require your personal data, but you still require this data for the assertion, enforcement or protection of legal claims, you are entitled to request the limitation of processing, instead of deletion, of this personal data.
+  - When you have voiced objection in accordance with Art. 21 Sec. 1 GDPR there may be a period where different interests are weighed and considered before a decision is reached. Until then you are entitled to request the limitation of processing of your personal data.
 
-* If you limit the processing of your personal data, we can process this data (beyond storage) only with your explicit consent or in order to assert, enforce or protect another natural or legal person’s legal claims, or in the light of an important public interest of the European Union or one of its member states.
+- If you limit the processing of your personal data, we can process this data (beyond storage) only with your explicit consent or in order to assert, enforce or protect another natural or legal person’s legal claims, or in the light of an important public interest of the European Union or one of its member states.
 
-* Right to data transferability: You are entitled to receive your personal data held by us in a common, machine readable format and to transfer your data set to a third party. Should you request the transmission of your personal data to a third party by us, we will comply only if this is can be effected with reasonable time and effort with the technology in place.
+- Right to data transferability: You are entitled to receive your personal data held by us in a common, machine readable format and to transfer your data set to a third party. Should you request the transmission of your personal data to a third party by us, we will comply only if this is can be effected with reasonable time and effort with the technology in place.
 
-* Right to deletion of your data: You have the right to undelayed and complete deletion of all your personal data.
+- Right to deletion of your data: You have the right to undelayed and complete deletion of all your personal data.
 
-* The right to file a complaint with a regulating authority: In case of violation of the GDPR you can file a complaint with the regulating authority. They will investigate the case and inform you about the outcome.
+- The right to file a complaint with a regulating authority: In case of violation of the GDPR you can file a complaint with the regulating authority. They will investigate the case and inform you about the outcome.
 
-* The right to file a complaint is unaffected by any other administrative or judicial right of appeal.
+- The right to file a complaint is unaffected by any other administrative or judicial right of appeal.
 
 If you have any questions, concerns or suggestions regarding our privacy policy, please contact us on [en@serlo.org](mailto:en@serlo.org).
-
