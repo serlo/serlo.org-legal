@@ -40,7 +40,7 @@ Die Erfassung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 #### Simple Analytics
 
-Diese Webseite nutzt den Webanalysedienst [Simple Analytics](https://simpleanalytics.com). Diese Software gibt uns Einblicke über unsere Nutzer\*innen im Allgemeinen, jedoch nicht über konkrete Nutzer\*innen, da kein Tracking stattfindet udn und keine personenbezogenen Daten gespeichert werden.
+Diese Webseite nutzt den Webanalysedienst [Simple Analytics](https://simpleanalytics.com). Diese Software gibt uns Einblicke über unsere Nutzer\*innen im Allgemeinen, jedoch nicht über konkrete Nutzer\*innen, da kein Tracking stattfindet und keine personenbezogenen Daten gespeichert werden.
 
 Genauere Informationen darüber, welche Daten Simple Analytics erhebt (und welche nicht), gibt es in [ihrer Dokumentation](https://docs.simpleanalytics.com/what-we-collect).
 
