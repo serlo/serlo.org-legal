@@ -4,7 +4,7 @@ Provider of this website is the Serlo Education e. V., registered at the Distric
 
 The “Serlo Education e.V.” is an association under german law, whose charitable status is officially recognised by the german state.
 
-The sales-tax registration-number following §27a Umsatzsteuergesetz of the German Law is: 143/216/10758
+The sales-tax registration-number following §27a Umsatzsteuergesetz of the German Law is: DE347004738
 
 The responsible contact persons are the board members: Simon Köhl (chairman), Wolfgang Schmid (deputy chairman), Stephan Kulla (financial director).
 
