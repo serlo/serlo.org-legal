@@ -4,7 +4,7 @@ Anbieter dieser Website ist der [Serlo Education e. V.](/ref/21437), eingetragen
 
 Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
 
-Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: 143/216/10758
+Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: DE347004738
 
 Der verantwortliche Ansprechpartner ist der Vorstand: Simon Köhl (Vorsitzender), Wolfgang Schmid (stellv. Vorsitzender), Stephan Kulla (Finanzvorstand)
 
