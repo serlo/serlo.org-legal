@@ -36,8 +36,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@serlo/serlo.org-legal@workspace:."
   dependencies:
-    prettier: ^2.0.0
-    prettier-plugin-packagejson: ^2.0.0
+    prettier: ^2.8.0
+    prettier-plugin-packagejson: ^2.3.0
   languageName: unknown
   linkType: soft
 
@@ -323,23 +323,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-packagejson@npm:^2.0.0":
-  version: 2.2.7
-  resolution: "prettier-plugin-packagejson@npm:2.2.7"
+"prettier-plugin-packagejson@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "prettier-plugin-packagejson@npm:2.3.0"
   dependencies:
-    sort-package-json: 1.46.1
+    sort-package-json: 1.57.0
   peerDependencies:
     prettier: ">= 1.16.0"
-  checksum: 6f51ded1cb2cf6d105acf792540c7ca4b899e4bccb2e651f95080828a548f366547065e08a26bfdccce2a1b80b19228b82223bbb89dc2bcedad1a53821107b91
+  peerDependenciesMeta:
+    prettier:
+      optional: true
+  checksum: fbcf81cedcfd030440c106d502f121deb9acff2d50c2173ec202eccea66c7de03618eafe3d2a4011b73d76d7d41355edcb2fc11b3030e02a1f2ade91220f4a8a
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.0.0":
-  version: 2.1.2
-  resolution: "prettier@npm:2.1.2"
+"prettier@npm:^2.8.0":
+  version: 2.8.0
+  resolution: "prettier@npm:2.8.0"
   bin:
     prettier: bin-prettier.js
-  checksum: 7bc5a2ff5e6caf585b003fbdb1645719d5f5fcd2a03b08bae75a5608a7155fd6f84bda146104b3b6b0d9dc06720ffbfab716eade2eaae771ce4817bcee745928
+  checksum: 72004ce0cc9bb097daf3e3833f62495768724392c1d5b178dd47372337616e9e50ecbb0804f236596223f7b5eb1bbe69cefc8957dca21112c5777e77ef73a564
   languageName: node
   linkType: hard
 
@@ -371,9 +374,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sort-package-json@npm:1.46.1":
-  version: 1.46.1
-  resolution: "sort-package-json@npm:1.46.1"
+"sort-package-json@npm:1.57.0":
+  version: 1.57.0
+  resolution: "sort-package-json@npm:1.57.0"
   dependencies:
     detect-indent: ^6.0.0
     detect-newline: 3.1.0
@@ -383,7 +386,7 @@ __metadata:
     sort-object-keys: ^1.1.3
   bin:
     sort-package-json: cli.js
-  checksum: b0aa35a169e3244ff1111472658ce02fe04858566621ffc14c7e972dada926a4dcfcf0088f5ee9d17864d86ea0beee4c5013fcd022b6562f40c1914e2fbdff35
+  checksum: 15758ba6b1033ae136863eabd4b8c8a28e79dd68b71327f6803c2ea740dc149dc9ad708b006d07ee9de56b6dc7cadb7c697801ad50c01348aa91022c6ff6e21d
   languageName: node
   linkType: hard
 
