@@ -13,8 +13,8 @@ Für den Blog ist verantwortlich im Sinne des Presserechts: Simon Köhl (Vorsitz
 ## Anschrift und Kontakt
 
 Serlo Education<br>
-Daiserstraße 15<br>
-D-81371 München
+Rosenheimerstraße 139<br>
+D-81671 München
 
 E-Mail [de@serlo.org](mailto:de@serlo.org)
 
