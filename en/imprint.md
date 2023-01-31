@@ -13,8 +13,8 @@ Responsible for the blog according to the german press law: Simon Köhl (chairma
 ### Postal address and contact:
 
 Serlo Education<br>
-Rosenheimerstraße 139<br>
-D-81671 München
+Daiserstraße 15<br>
+D-81371 München
 
 email: [en@serlo.org](mailto:en@serlo.org)
 
