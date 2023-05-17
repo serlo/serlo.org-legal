@@ -247,7 +247,7 @@ Die Datenschutzbestimmungen von Google findest Du [hier](https://policies.google
 
 #### Hubspot
 
-Wenn Du dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Hubspot gespeichert. Hubspot ist ein Customer-Relationship-Management Dienst welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
+Wenn Du mit uns Kontakt aufnimmst, oder dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Hubspot gespeichert. Hubspot ist ein Customer-Relationship-Management Dienst welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
 
 - Deine Kontaktdaten,
 - die Höhe und den Rhythmus Deiner Spende

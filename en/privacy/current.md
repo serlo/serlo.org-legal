@@ -256,7 +256,7 @@ You can preview Google’s Privacy Statement [here](https://policies.google.com/
 
 #### Hubspot
 
-When you decide to make a donation to us through our donation form, we will save the data provided on Hubspot. Hubspot is a US-based constituent relationship management service. The data we save comprise:
+When you get in contact with us, or decide to make a donation through our donation form, we will save the data provided on Hubspot. Hubspot is a US-based constituent relationship management service. The data we save comprise:
 
 - your contact data
 - the amount, cycle and date of your donation
