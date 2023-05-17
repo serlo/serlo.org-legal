@@ -270,7 +270,7 @@ You can preview Hubspot’s Privacy Statement [here](https://legal.hubspot.com/p
 
 #### Planetscale
 
-This website uses the service [Planetscale](https://prisma.io/planetscale/). The provider is Prisma Data Inc, 54 Washburn Street, San Francisco, CA 94103, USA. Planetscale is a modern database on which we store some data of our website. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
+This website uses the service [Planetscale](https://planetscale.com/). The provider is PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale is a modern database on which we store some data of our website. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
 
 PlanetScale may store this data on servers located in the United States. The transfer of this data is subject to the EU-US Privacy Shield Framework, which provides certain protections for the personal data of EU individuals transferred to companies in the United States.
 
