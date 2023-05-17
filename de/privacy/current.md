@@ -261,7 +261,7 @@ Die Datenschutzerklärung von Hubspot findest Du [hier](https://legal.hubspot.co
 
 #### Planetscale
 
-Diese Webseite nutzt den Dienst [Planetscale](https://prisma.io/planetscale/). Der Anbieter ist Prisma Data Inc., 54 Washburn Street, San Francisco, CA 94103, USA. Planetscale ist eine moderne Datenbank auf der wir einige Daten speichern um unsere Webseite bereitzustellen. Einige deiner Daten können bei deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.
+Diese Webseite nutzt den Dienst [Planetscale](https://planetscale.com/). Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale ist eine moderne Datenbank auf der wir einige Daten speichern um unsere Webseite bereitzustellen. Einige deiner Daten können bei deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.
 
 Diese Daten können je nach Serverstandort auch in die USA übertragen werden.
 
