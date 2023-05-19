@@ -58,7 +58,8 @@ Diese Daten können je nach Serverstandort auch in die USA übertragen werden.
 
 Die Datenschutzerklärung von Planetscale findest Du unter [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
 
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Die Datenerhebung erfolgt auf Grundlage unserer berechtigten Interessen zu der Bereitstellung unseres Dienstes sowie Verbesserung unserer Webangebote.
+
 
 #### Sentry
 
