@@ -44,6 +44,22 @@ Diese Webseite nutzt den Webanalysedienst [Simple Analytics](https://simpleanaly
 
 Genauere Informationen darüber, welche Daten Simple Analytics erhebt (und welche nicht), gibt es in [ihrer Dokumentation](https://docs.simpleanalytics.com/what-we-collect).
 
+#### Planetscale
+
+Diese Webseite nutzt den Dienst [Planetscale](https://planetscale.com/). Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale ist eine moderne Datenbank auf der wir einige Daten speichern um unsere Webseite bereitzustellen. Einige deiner Daten können bei deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.
+Einige Daten für die Verbesserung unseres Services und der Messung unseres Wirkungsziel, sind zu komplex um mit Simple Analytics zu erheben. Deshalb verwenden wir Planetscale um solche Daten zu erheben.
+Die von uns gesammelten Daten umfassen unter anderem folgende Punkte:
+
+- Anonyme Umfragen
+- Zeit und Datum, wann bestimmte Seiten besucht werden
+- Wie oft Aufgaben auf Serlo gelöst werden
+
+Diese Daten können je nach Serverstandort auch in die USA übertragen werden.
+
+Die Datenschutzerklärung von Planetscale findest Du unter [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
+
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
+
 #### Sentry
 
 Diese Webseite nutzt den Dienst [Sentry](https://sentry.io), um die technische Stabilität unserer Dienste durch Überwachung der Systemstabilität und Ermittlung von Codefehlern zu verbessern. Anbieter ist die Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107, USA.
@@ -258,16 +274,6 @@ Hubspot nutzt diese Daten nicht und gibt sie grundsätzlich auch nicht weiter. H
 Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit f (Berechtigtes Interesse). Du kannst die erteilte Einwilligung zur Speicherung der Daten jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
 Die Datenschutzerklärung von Hubspot findest Du [hier](https://legal.hubspot.com/de/privacy-policy).
-
-#### Planetscale
-
-Diese Webseite nutzt den Dienst [Planetscale](https://planetscale.com/). Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale ist eine moderne Datenbank auf der wir einige Daten speichern um unsere Webseite bereitzustellen. Einige deiner Daten können bei deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.
-
-Diese Daten können je nach Serverstandort auch in die USA übertragen werden.
-
-Die Datenschutzerklärung von Planetscale findest Du unter [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
-
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO.
 
 ### Verarbeitung der Newsletterempfängerdaten
 
