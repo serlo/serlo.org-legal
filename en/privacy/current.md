@@ -44,6 +44,22 @@ To get critical information about the behavior of our visitors, we use [Simple A
 
 You can find out what Simple Anaytics collects (and most importantly what they don’t) in [their documentation](https://docs.simpleanalytics.com/what-we-collect).
 
+#### Planetscale
+
+This website uses the service [Planetscale](https://planetscale.com/). The provider is PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale is a modern database on which we store some data of our website. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
+
+Some data for improving our service and measuring our impact goal, are too complex to collect with Simple Analytics. Therefore, we use Planetscale to collect said data. The data we collect includes but is not limited to:
+
+- Anonymous surveys
+- Time & dates when certain pages are visited
+- How often exercises on Serlo are solved
+
+PlanetScale may store this data on servers located in the United States. The transfer of this data is subject to the EU-US Privacy Shield Framework, which provides certain protections for the personal data of EU individuals transferred to companies in the United States.
+
+You can find Planetscale's privacy policy at [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
+
+The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR.
+
 #### Sentry
 
 This website uses the third-party service [Sentry](https://sentry.io/) to improve the technical stability of our services through monitoring of system stability and identification of dysfunctional code. Provider of this service is Functional Software, Inc. dba Sentry, 132 Hawthorne Street, San Francisco, CA 94107, USA. The information collected includes:
@@ -267,16 +283,6 @@ Hubspot does not use and does not usually pass on your data. Only in exceptional
 The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR and our legitimate interest in managing donor relationships as per Art. 6 Abs. 1 lit f . You can retract your consent to having your data stored this way at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview Hubspot’s Privacy Statement [here](https://legal.hubspot.com/privacy-policy).
-
-#### Planetscale
-
-This website uses the service [Planetscale](https://planetscale.com/). The provider is PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale is a modern database on which we store some data of our website. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
-
-PlanetScale may store this data on servers located in the United States. The transfer of this data is subject to the EU-US Privacy Shield Framework, which provides certain protections for the personal data of EU individuals transferred to companies in the United States.
-
-You can find Planetscale's privacy policy at [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
-
-The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR
 
 ### Duration of Data Retention
 
