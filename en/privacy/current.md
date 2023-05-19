@@ -58,7 +58,7 @@ PlanetScale may store this data on servers located in the United States. The tra
 
 You can find Planetscale's privacy policy at [https://planetscale.com/legal/privacy](https://planetscale.com/legal/privacy).
 
-The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR.
+The collection of this data is based on Art. 6 Sec. 1 lit. f DSGVO. We as the website provider have a legitimate interest in collecting this data to perform analytics and optimize our website.
 
 #### Sentry
 
