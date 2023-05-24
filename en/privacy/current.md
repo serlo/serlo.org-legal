@@ -46,9 +46,9 @@ You can find out what Simple Anaytics collects (and most importantly what they d
 
 #### Planetscale
 
-This website uses the service [Planetscale](https://planetscale.com/). The provider is PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Planetscale is a modern database on which we store some data of our website. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
+Some data for improving our service and measuring our impact goal are too complex to collect with Simple Analytics. Therefore, this website uses the service [Planetscale](https://planetscale.com/), a modern database as a service. The provider is PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Some of your information may be transmitted to and stored by Planetscale when you visit our website.
 
-Some data for improving our service and measuring our impact goal, are too complex to collect with Simple Analytics. Therefore, we use Planetscale to collect said data. The data we collect includes but is not limited to:
+The data we collect includes but is not limited to:
 
 - Anonymous surveys
 - Time & dates when certain pages are visited
@@ -272,13 +272,13 @@ You can preview Google’s Privacy Statement [here](https://policies.google.com/
 
 #### Hubspot
 
-When you get in contact with us, or decide to make a donation through our donation form, we will save the data provided on Hubspot. Hubspot is a US-based constituent relationship management service. The data we save comprise:
+When you get in contact with us, or decide to make a donation through our donation form, we will save the provided data on Hubspot. Hubspot is a US-based customer relationship management service. The data we save comprise:
 
 - your contact data
 - the amount, cycle and date of your donation
 - when you started donating
 
-Hubspot does not use and does not usually pass on your data. Only in exceptional cases, namely i) with our consent, ii) to oblige with legal requirements or iii) in case of merger of acquisition of Hubspot with a different enterprise or similar business transactions, may Hubspot share data with third parties.
+Hubspot does not use and only pass on your data in exceptional cases, namely i) with the consent of Serlo, ii) to oblige with legal requirements or iii) in case of merger of acquisition of Hubspot with a different enterprise or similar business transactions, may Hubspot share data with third parties.
 
 The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR and our legitimate interest in managing donor relationships as per Art. 6 Abs. 1 lit f . You can retract your consent to having your data stored this way at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
