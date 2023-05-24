@@ -46,7 +46,7 @@ Genauere Informationen darüber, welche Daten Simple Analytics erhebt (und welch
 
 #### Planetscale
 
-Einige Daten für die Verbesserung unseres Services und der Messung unseres Wirkungsziel sind zu komplex dafür, mit Simple Analytics zu erheben. Deshalb nutzt diese Webseite nutzt den Dienst [Planetscale](https://planetscale.com/), eine morderne Datenbank als Service. Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Einige Deiner Daten können bei Deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.  
+Einige Daten für die Verbesserung unseres Services und der Messung unseres Wirkungsziels sind zu komplex, um sie mit Simple Analytics zu erheben. Deshalb nutzt diese Webseite zusätzlich [Planetscale](https://planetscale.com/) (eine moderne Datenbank) als Service. Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Einige Deiner Daten können bei Deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.  
 Die von uns gesammelten Daten umfassen unter anderem folgende Punkte:
 
 - Anonyme Umfragen
