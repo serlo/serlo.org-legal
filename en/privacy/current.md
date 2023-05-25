@@ -278,8 +278,6 @@ When you get in contact with us, or decide to make a donation through our donati
 - the amount, cycle and date of your donation
 - when you started donating
 
-Hubspot does not use and only pass on your data in exceptional cases, namely i) with the consent of Serlo, ii) to oblige with legal requirements or iii) in case of merger of acquisition of Hubspot with a different enterprise or similar business transactions, may Hubspot share data with third parties.
-
 The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR and our legitimate interest in managing donor relationships as per Art. 6 Abs. 1 lit f . You can retract your consent to having your data stored this way at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 
 You can preview Hubspot’s Privacy Statement [here](https://legal.hubspot.com/privacy-policy).
