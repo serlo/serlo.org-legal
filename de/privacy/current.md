@@ -46,7 +46,7 @@ Genauere Informationen darüber, welche Daten Simple Analytics erhebt (und welch
 
 #### Planetscale
 
-Einige Daten für die Verbesserung unseres Services und der Messung unseres Wirkungsziels sind zu komplex, um sie mit Simple Analytics zu erheben. Deshalb nutzt diese Webseite zusätzlich [Planetscale](https://planetscale.com/) (eine moderne Datenbank) als Service. Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Einige Deiner Daten können bei Deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.  
+Einige Daten für die Verbesserung unseres Services und der Messung unseres Wirkungsziels sind zu komplex, um sie mit Simple Analytics zu erheben. Deshalb nutzt diese Webseite zusätzlich [Planetscale](https://planetscale.com/) (eine moderne Datenbank) als Service. Der Anbieter ist PlanetScale Inc. 535 Mission St 14th floor, San Francisco, CA 94105, United States. Einige Deiner Daten können bei Deinem Besuch unserer Webseite an Planetscale übermittelt und dort gespeichert werden.
 Die von uns gesammelten Daten umfassen unter anderem folgende Punkte:
 
 - Anonyme Umfragen
@@ -262,13 +262,11 @@ Die Datenschutzbestimmungen von Google findest Du [hier](https://policies.google
 
 #### Hubspot
 
-Wenn Du mit uns Kontakt aufnimmst oder dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Hubspot gespeichert. Hubspot ist ein Customer-Relationship-Management Dienst, welcher in den USA ansässig ist. Die gespeicherten Daten umfassen:
+Wenn Du mit uns Kontakt aufnimmst oder dich dazu entscheidest, einen Spendenbeitrag über unser Spendenformular zu leisten, werden die durch das Spendenformular erfasste Daten auf Hubspot gespeichert. Hubspot ist ein Customer-Relationship-Management Dienst, welcher in den USA ansässig ist. Die gespeicherten Daten umfassen unter anderem:
 
 - Deine Kontaktdaten,
 - die Höhe und den Rhythmus Deiner Spende
 - seit wann Du spendest.
-
-Hubspot nutzt diese Daten nicht und gibt sie grundsätzlich auch nicht weiter. Hubspot gibt gespeicherte Daten nur weiter, (i) mit Einwilligung seitens Serlo, (ii) um gesetzlichen Verpflichtungen nachzukommen oder (iii) im Falle eines Verkaufs des Unternehmens, einer Fusion mit einem anderen Unternehmen oder ähnlichen geschäftlichen Interaktionen.
 
 Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit f (Berechtigtes Interesse). Du kannst die erteilte Einwilligung zur Speicherung der Daten jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
