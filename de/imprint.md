@@ -6,7 +6,7 @@ Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnüt
 
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: DE347004738
 
-Der verantwortliche Ansprechpartner ist der Vorstand: Kathi Radstorfer (Vorsitzende), Wolfgang Schmid (stellv. Vorsitzender), Simon Köhl (Mitglied des Vorstands)
+Der verantwortliche Ansprechpartner ist der Vorstand: Katharina Radstorfer (Vorsitzende), Wolfgang Schmid (stellv. Vorsitzender), Simon Köhl (Mitglied des Vorstands)
 
 Für den Blog ist verantwortlich im Sinne des Presserechts: Simon Köhl
 
