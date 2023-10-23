@@ -116,3 +116,6 @@ dist
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# OS specific
+.DS_Store
