@@ -1,6 +1,6 @@
 „Serlo" ist im Internet unter [www.serlo.org](https://serlo.org/) zu finden.
 
-Anbieter dieser Website ist der Serlo Education e. V., eingetragen beim Amtsgericht München unter der Nummer: 202808.
+Anbieter dieser Website ist der [Serlo Education e. V.](/21437), eingetragen beim Amtsgericht München unter der Nummer: 202808.
 
 Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
 
