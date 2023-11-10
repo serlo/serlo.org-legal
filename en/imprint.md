@@ -1,4 +1,4 @@
-“Serlo” can be found online at www.serlo.org
+“Serlo” can be found online at [www.serlo.org](https://serlo.org/).
 
 Provider of this website is the Serlo Education e. V., registered at the District Dourt Munich with the number: 202808.
 
@@ -7,8 +7,6 @@ The “Serlo Education e.V.” is an association under german law, whose charita
 The sales-tax registration-number following §27a Umsatzsteuergesetz of the German Law is: DE347004738
 
 The responsible contact persons are the board members: Katharina Radstorfer (chairman), Wolfgang Schmid (deputy chairman), Simon Köhl (board member).
-
-Responsible for the blog according to the german press law: Simon Köhl
 
 ### Postal address and contact:
 
