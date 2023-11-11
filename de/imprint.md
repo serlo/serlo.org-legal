@@ -1,14 +1,15 @@
-„Serlo" ist im Internet unter www.serlo.org zu finden.
+„Serlo" ist im Internet unter [www.serlo.org](https://serlo.org/) zu finden.
 
-Anbieter dieser Website ist der [Serlo Education e. V.](/ref/21437), eingetragen beim Amtsgericht München unter der Nummer: 202808.
+Anbieter dieser Website ist der [Serlo Education e. V.](/21437), eingetragen beim Amtsgericht München unter der Nummer: 202808.
 
 Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
 
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: DE347004738
 
-Der verantwortliche Ansprechpartner ist der Vorstand: Katharina Radstorfer (Vorsitzende), Wolfgang Schmid (stellv. Vorsitzender), Simon Köhl (Mitglied des Vorstands)
-
-Für den Blog ist verantwortlich im Sinne des Presserechts: Simon Köhl
+Der verantwortliche Ansprechpartner ist der Vorstand:
+- Katharina Radstorfer (Vorsitzende)
+- Wolfgang Schmid (stellv. Vorsitzender)
+- Simon Köhl (Mitglied des Vorstands)
 
 ## Anschrift und Kontakt
 
