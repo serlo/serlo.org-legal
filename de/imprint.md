@@ -17,7 +17,7 @@ Serlo Education<br>
 Rosenheimerstraße 139<br>
 D-81671 München
 
-E-Mail [de@serlo.org](mailto:de@serlo.org)<br>
+E-Mail: [de@serlo.org](mailto:de@serlo.org)<br>
 Telefonnummer: +491629070171
 
 ## Konto
