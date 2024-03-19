@@ -8,7 +8,6 @@ Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: 
 
 Der verantwortliche Ansprechpartner ist der Vorstand:
 - Katharina Radstorfer (Vorsitzende)
-- Wolfgang Schmid (stellv. Vorsitzender)
 - Simon Köhl (Mitglied des Vorstands)
 
 ## Anschrift und Kontakt
