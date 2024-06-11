@@ -15,7 +15,7 @@ Rosenheimerstraße 139<br>
 D-81671 München
 
 email: [en@serlo.org](mailto:en@serlo.org)<br>
-phone: +491629070171
+phone: +491629070168
 
 ### Account Details:
 
