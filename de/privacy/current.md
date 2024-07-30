@@ -251,6 +251,34 @@ Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO (Einwillig
 
 Die Datenschutzerklärung von Hubspot findest Du [hier](https://legal.hubspot.com/de/privacy-policy).
 
+### Verarbeitung der Newsletterempfängerdaten
+
+#### Newsletterdaten
+
+Wenn Du den auf der Website angebotenen Newsletter beziehen möchtest, benötigen wir von Dir eine E-Mail-Adresse sowie Informationen, welche uns die Überprüfung gestatten, dass Du der Inhaber der angegebenen E-Mail-Adresse bist und mit dem Empfang des Newsletters einverstanden bist. Weitere Daten werden nicht bzw. nur auf freiwilliger Basis erhoben. Diese Daten verwenden wir ausschließlich für den Versand der angeforderten Informationen und geben diese nicht an Dritte weiter.
+
+Die Verarbeitung der in das Newslettermeldeformular eingebenen Daten geschieht auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Deiner Einwilligung. Du kannst die erteilte Einwilligung zur Speicherung der Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters jederzeit widerrufen, etwa über den "Austragen"-Link im Newsletter. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+
+Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Deiner Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden bleiben hiervon unberührt.
+
+#### MailChimp
+
+Der Versand unseres Newsletters erfolgt über MailChimp, einer E-Mail Versandplattform, welche in den USA ansässig ist. Anbieter ist die Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA. Die von Mailchimp gesammelten Daten umfassen:
+
+Die im Rahmen der Registrierung erfassten Daten, also Deine E-Mail Adresse, Deinen Nach- und Vornamen Daten über Deine Interaktion mit dem Newsletter IP-Adresse, Browsertyp und Betriebssystem
+
+Diese Daten werden in der Regeln auf Servern von Mailchimp in den USA gespeichert.
+
+Zudem ermöglicht Mailchimp eine Analyse Deiner Interaktion mit dem Newsletter. Wenn Du eine mit MailChimp versandte E-Mail öffnest, verbindet sich eine in der E-Mail enthaltene Datei (sog. web-beacon) mit den Servern von MailChimp in den USA. So kann festgestellt werden, ob eine Newsletter-Nachricht geöffnet und welche Links ggf. angeklickt wurden. Außerdem werden technische Informationen erfasst (z.B. Zeitpunkt des Abrufs, IP-Adresse, Browsertyp und Betriebssystem). Diese Informationen können nicht dem jeweiligen Newsletter-Empfänger zugeordnet werden. Sie dienen ausschließlich der statistischen Analyse von Newsletterkampagnen. Die Ergebnisse dieser Analysen können genutzt werden, um künftige Newsletter besser an die Interessen der Empfänger anzupassen.
+
+Neben der Nutzung dieser Daten zum Versand und der Auswertung unseres Newsletters verwendet MailChimp die Daten außerdem (i) zur Verbesserung und Optimierung des angebotenen Services, (ii) um einer gesetzlichen Verpflichtung nachzukommen, und um (iii) die eigenen Interessen zu wahren. MailChimp nutzt die Daten jedoch nicht um unsere NutzerInnen selbst anzuschreiben. Mailchimp teilt die Daten mit Dritten (i) mit Einwilligung der betroffenen Person, (ii) zu Werbezwecken, (iii) um gesetzlichen Verpflichtungen nachzukommen oder (iv) im Falle eines Verkaufs des Unternehmens, einer Fusion mit einem anderen UNternehmen oder ähnlichen geschäftlichen Interaktionen. MailChimp ist unter dem EU-US Datenschutzabkommen zertifiziert und damit verpflichtet, den EU-Datenschutzvorgaben nachzukommen. Des weiteren hat Serlo.org mit MailChimp ein Data-Processing Agreement abgeschlossen, wodurch sich MailChimp verpflichtet, die Daten unserer Nutzer zu schützen und sie nicht weiterzugeben.
+
+Die Datenverarbeitung geschieht auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Deiner Einwilligung. Du kannst diese Einwilligung jederzeit widerrufen, indem Du den Newsletter abbestellst. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+
+Wenn Du keine Analyse durch MailChimp willst, musst Du den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren kannst Du den Newsletter auch direkt auf der Website abbestellen. Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Deiner Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von MailChimp gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden bleiben hiervon unberührt.
+
+Die Datenschutzerklärung von MailChimp findest Du [hier](https://mailchimp.com/legal/privacy/).
+
 ### Dauer der Datenspeicherung
 
 Die Dauer der Datenspeicherung ist abhängig von der Art der jeweiligen Daten. Eine Löschung der Daten erfolgt, sobald Serlo.org kein legitimes Interesse mehr an der Aufbewahrung und Verarbeitung der Daten hat.
