@@ -111,18 +111,6 @@ Sofern Sie gleichzeitig bei Google eingeloggt sind, ist der Google-Service in de
 
 Weitere Informationen von Google über den Umgang mit Nutzerdaten (Datenschutzerklärung) erhalten Sie auf: [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy)
 
-#### Google reCAPTCHA
-
-Wir nutzen „Google reCAPTCHA” (im Folgenden „reCAPTCHA”) auf unseren Websites. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”).
-
-Mit reCAPTCHA soll überprüft werden, ob die Dateneingabe auf unseren Websites (z.B. in einem Kontaktformular) durch einen Menschen oder durch ein automatisiertes Programm erfolgt. Hierzu analysiert reCAPTCHA das Verhalten des Webseitenbesuchers/der Webseitenbesucherin anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald der/die WebseitebesucherIn die Webseite betritt. Zur Analyse wertet reCAPTCHA verschiedene Informationen aus (z.B. IP-Adresse, Verweildauer des Webseitebesuchers/der Webseitenbesucherin auf der Website oder vom Nutzer getätigte Mausbewegungen). Die bei der Analyse erfassten Daten werden an Google weitergeleitet.
-
-Die reCAPTCHA-Analysen laufen vollständig im Hintergrund. WebseitenbesucherInnen werden nicht darauf hingewiesen, dass eine Analyse stattfindet.
-
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Webseitenbetreiber hat ein berechtigtes Interesse daran, seine Webangebote vor missbräuchlicher automatisierter Ausspähung und vor SPAM zu schützen.
-
-Weitere Informationen zu Google reCAPTCHA sowie die Datenschutzerklärung von Google entnimmst Du folgenden Links: [https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy?hl=de) und [https://www.google.com/recaptcha](https://www.google.com/recaptcha).
-
 #### Registrierung auf dieser Website
 
 Du kannst dich auf unserer Website registrieren, um zusätzliche Funktionen auf der Seite zu nutzen. Die dazu eingegebenen Daten verwenden wir nur zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes, für den Du dich registriert hast. Die bei der Registrierung abgefragten Pflichtangaben müssen vollständig angegeben werden. Andernfalls werden wir die Registrierung ablehnen.

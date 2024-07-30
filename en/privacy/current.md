@@ -121,18 +121,6 @@ When you are simultaneously logged into Google, the Google service is able to li
 
 You can find Google’s privacy policy at [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy).
 
-#### Google Recaptcha
-
-We use Google reCAPTCHA (referred to as ‘reCAPTCHA’ in the following) on our websites. This service is provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA („Google”).
-
-We use reCAPTCHA to verify, whether input on our website is contributed by a human or an automated machine (e.g. in a contact form). To do this, reCAPTCHA analysis the behaviour of website visitors with regard to certain characteristics. The analysis is initiated automatically when a website user accesses the website and involves the processing of various kinds of data (e.g. IP address, duration of stay on website or cursor movements performed by the website visitor). The data captured in the process of this analysis are transmitted to Google.
-
-All reCAPTCHA analyses operate in the background and users are not made aware of the process.
-
-The use of this tool is justified by our legitimate interest to protect our services from improper or fraudulent use, spying software and spam in accordance with the provisions of Art. 6 Abs. 1 lit. f GDPR.
-
-Further information about Google reCAPTCHA and the privacy statement of Google you can access via the links: https://policies.google.com/privacy?hl=en und https://www.google.com/recaptcha.
-
 #### Registration on the Website
 
 You can create an account on our website to use additional features and functionalities. The data entered will be used only in order to provide the services or features for which you have registered. The information requested in the registration process must be completed fully, otherwise the registration will be rejected.
