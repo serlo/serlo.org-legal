@@ -88,7 +88,7 @@ Die Nutzung von YouTube erfolgt im Interesse einer ansprechenden Darstellung uns
 
 Unsere Webseite nutzt Plugins des Videoportals Vimeo. Anbieter ist die Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
 
-Wenn Du eine unserer mit einem Vimeo-Plugin ausgestatteten Seiten besuchst, wird eine Verbindung zu den Servern von Vimeo hergestellt. Dabei wird dem Vimeo-Server mitgeteilt, welche unserer Seiten Du besucht hast. Zudem erlangt Vimeo Deine IP-Adresse. Dies gilt auch dann, wenn Du nicht bei Vimeo eingeloggt bist oder keinen Account bei Vimeo hast. Die von Vimeo erfassten Informationen werden an den Vimeo-Server in den USA übermittelt.
+Wenn Du eine unserer mit einem Vimeo-Plugin ausgestatteten Seiten besuchst, wird eine Verbindung zu den Servern von Vimeo hergestellt. Dabei wird dem Vimeo-Server mitgeteilt, welche unserer Seiten Du besucht hast. Zudem erlangt Vimeo Deine IP-Adresse. Dies gilt auch dann, wenn Du nicht bei Vimeo eingeloggt bist oder keinen Account bei Vimeo hast. Die von Vimeo erfassten Informationen werden an den Vimeo-Server in den USA übermittelt. Vimeo ist nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Wenn Du in Deinem Vimeo-Account eingeloggt bist, ermöglichst Du Vimeo, Dein Surfverhalten direkt Deinem persönlichen Profil zuzuordnen. Dies kannst Du verhindern, indem Du dich aus Deinem Vimeo-Account ausloggst.
 
@@ -146,7 +146,7 @@ Dazu verarbeitet Cloudfare unter anderen folgende personenbezogenen Daten:
 - die Uhrzeit der Serveranfrage
 - Cookies
 
-Diese Daten werden an den nähesten Server des Clients übertragen.
+Diese Daten werden an den nähesten Server des Clients übertragen. Cloudflare ist nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Die Datenschutzerklärung von Cloudflare findest Du unter [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
 
@@ -164,6 +164,8 @@ Diese Webseite nutzt den Dienst [Vercel](https://vercel.com/). Der Anbieter ist 
 - Cookies
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen.
+Vercel ist zusätzlich nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
+
 
 Die Datenschutzerklärung von Vercel findest Du unter [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy).
 
@@ -200,6 +202,7 @@ Details zur Zahlung mit Sofortüberweisung entnehmen Sie folgenden Links: [https
 Diese Webseite nutzt zur Abwicklung der Spende Dienstleistungen des Technologieunternehmens Stripe inc. („Stripe”), 510 Townsend Street, San Francisco, CA 94103. Die bei Ausfüllen des Spendenauftrags angegebenen Daten, d.h. Höhe und Rhythmus der Spende sowie Deine Kontakt- und Kreditkarten werden auf Servern von Stripe in den USA gespeichert. Stripe nutzt diese Daten zur Durchführung der Transaktion, sowie zur Durchführung von Maßnahmen gegen Betrugsabwehr.
 
 Die Übermittlung Deiner Daten an Stripe erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit. b DSGVO (Verarbeitung zur Erfüllung eines Vertrags). Du hast die Möglichkeit, Deine Einwilligung zur Datenverarbeitung jederzeit zu widerrufen. Ein Widerruf wirkt sich auf die Wirksamkeit von in der Vergangenheit liegenden Datenverarbeitungsvorgängen nicht aus.
+Stripe ist nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Die Datenschutzerklärung von Stripe findest Du [hier](https://stripe.com/de/privacy).
 
@@ -224,6 +227,7 @@ Die Datenschutzerklärung von twingle findest Du [hier](https://www.twingle.de/d
 #### Google Cloud
 
 Diese Webseite nutzt die Google Cloud Plattform, ein Cloud Computing Service der Google Inc. („Google”) um Daten, die Du beim Ausfüllen des Spendenformulars auf Serlo.org angibst, zu speichern. Die gesammelten Daten, d.h. Dein Name, Deine E-Mail Adresse, die Höhe und der Spendenrythmus werden auf Servern von Google in den USA übertragen und dort gespeichert. Google nutzt diese Daten nicht. Die Datenverarbeitung geschieht auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Deiner Einwilligung. Du kannst diese Einwilligung jederzeit widerrufen, indem Du den Spendenauftrag widerrufst. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Google Cloud und weitere Produkte von Google LLC sind nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Die Datenschutzbestimmungen von Google findest Du [hier](https://policies.google.com/privacy?hl=de).
 
@@ -236,6 +240,7 @@ Wenn Du mit uns Kontakt aufnimmst oder dich dazu entscheidest, einen Spendenbeit
 - seit wann Du spendest.
 
 Die Verarbeitung erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) und Art. 6 Abs. 1 lit f (Berechtigtes Interesse). Du kannst die erteilte Einwilligung zur Speicherung der Daten jederzeit widerrufen. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
+Hubspot ist nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Die Datenschutzerklärung von Hubspot findest Du [hier](https://legal.hubspot.com/de/privacy-policy).
 
@@ -255,7 +260,7 @@ Der Versand unseres Newsletters erfolgt über MailChimp, einer E-Mail Versandpla
 
 Die im Rahmen der Registrierung erfassten Daten, also Deine E-Mail Adresse, Deinen Nach- und Vornamen Daten über Deine Interaktion mit dem Newsletter IP-Adresse, Browsertyp und Betriebssystem
 
-Diese Daten werden in der Regeln auf Servern von Mailchimp in den USA gespeichert.
+Mailchimp verwendet für die Datenübertragung in die USA die [Standardvertragsklauseln (SCC)](https://mailchimp.com/legal/data-processing-addendum/) als rechtliche Grundlage, um den Schutz deiner Daten sicherzustellen. Die Daten werden auf Servern in den USA gespeichert.
 
 Zudem ermöglicht Mailchimp eine Analyse Deiner Interaktion mit dem Newsletter. Wenn Du eine mit MailChimp versandte E-Mail öffnest, verbindet sich eine in der E-Mail enthaltene Datei (sog. web-beacon) mit den Servern von MailChimp in den USA. So kann festgestellt werden, ob eine Newsletter-Nachricht geöffnet und welche Links ggf. angeklickt wurden. Außerdem werden technische Informationen erfasst (z.B. Zeitpunkt des Abrufs, IP-Adresse, Browsertyp und Betriebssystem). Diese Informationen können nicht dem jeweiligen Newsletter-Empfänger zugeordnet werden. Sie dienen ausschließlich der statistischen Analyse von Newsletterkampagnen. Die Ergebnisse dieser Analysen können genutzt werden, um künftige Newsletter besser an die Interessen der Empfänger anzupassen.
 
