@@ -86,7 +86,7 @@ We use YouTube within the provisions of Art. 6 Abs. 1 lit. f GDPR, namely out of
 
 Our website uses plugins provided by the videoportal Vimeo. Provider of this service is Vimeo Inc., 555 West 18th Street, New York, New York 10011, USA.
 
-When visiting one of our websites that are fitted with a Vimeo plugin, this creates a connection to the Vimeo servers located in the US and initiates the transmission of information about the websites you have visited on serlo.org. It also shares your IP address with Vimeo. This will happen regardless of whether you are logged into your Vimeo account and whether you are even registered with Vimeo.
+When visiting one of our websites that are fitted with a Vimeo plugin, this creates a connection to the Vimeo servers located in the US and initiates the transmission of information about the websites you have visited on serlo.org. It also shares your IP address with Vimeo. This will happen regardless of whether you are logged into your Vimeo account or if you are even registered with Vimeo. Vimeo is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
 
 If you are logged into a personal Vimeo account while accessing a website fitted with a Vimeo plugin, this enables Vimeo to directly relate your online activities to your personal profile. You can disable this by logging off from your Vimeo account before visiting our website.
 
@@ -94,7 +94,7 @@ You can find more information in Vimeo’s own Privacy Statement [here](https://
 
 We use Vimeo within the provisions of Art. 6 Abs. 1 lit. f GDPR, namely out of legitimate interest to provide attractive audiovisual content within our online offer.
 
-### GeoGebra
+#### GeoGebra
 
 Our website uses plugins provided by the dynamic mathematics software [GeoGebra](https://www.geogebra.org). Provider of this service is GeoGebra GmbH, Altenbergerstraße 69, 4040 Linz, Austria.
 
@@ -154,7 +154,7 @@ This website uses the service by [Cloudflare, Inc.](https://www.cloudflare.com/)
 - time of server request
 - cookies
 
-The data is transferred to the closest server of the client.
+The data is transferred to the closest server of the client. Cloudflare is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
 
 You can find Cloudflare’s privacy policy at [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
 
@@ -171,7 +171,7 @@ This website uses the service by [Vercel](https://vercel.com/). Provider is Verc
 - time of server request
 - cookies
 
-Depending on the server location, these information may also be sent to the USA. Vercel has signed a data processing agreement governed by the European General Data Protection Regulation with us.
+Depending on the server location, these information may also be sent to the USA. Vercel has signed a data processing agreement governed by the European General Data Protection Regulation with us. Vercel is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
 
 You can find Vercel’s privacy policy at [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy).
 
@@ -203,11 +203,12 @@ The transmission of your data to Klarna GmbH is based on the provisions of Art. 
 
 You can preview Klarna’s privacy statement [here](https://www.klarna.com/sofort/privacy-policy/).
 
-#### Stripe inc.
+#### Stripe Inc.
 
 This website uses services provided by Stripe Inc (‘Stripe’), 510 Townsend Street, San Francisco, CA 94103 to process credit card payments. The data entered in the donation process, namely the amount and rhythm of your donation as well as your contact and credit card details will be transmitted to Stripe and stored on their US servers. Stripe uses this data to effect the transaction and to carry out measures to avoid fraud.
 
-The transmission of your data to Klarna GmbH is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+The transmission of your data to Stripe Inc. is based on the provisions of Art. 6 Abs. 1 lit. a GDPR (consent) und Art. 6 Abs. 1 lit. b GDPR (processing for fulfillment of contractual obligation). You can retract your consent at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+Stripe is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
 
 You can preview Stripe’s privacy statement [here](https://stripe.com/en-de/privacy).
 
@@ -233,6 +234,7 @@ You can preview twingle’s privacy statement [here](https://www.twingle.de/date
 #### Google Cloud
 
 This website uses Google Cloud Plattform, a cloud computing service der Google Inc. („Google”), to store data which you enter during the donation process in our donation form. The data collected including your name, your email address as well as the amount and cycle of your donation will be transferred to US based Google servers and saved there. Google does not use or process this data in any way. This occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR. You can retract your consent at any time by retracting your donation. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+Google Cloud and other products of Google LLC are certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
 
 You can preview Google’s Privacy Statement [here](https://policies.google.com/privacy?hl=en).
 
@@ -245,6 +247,8 @@ When you get in contact with us, or decide to make a donation through our donati
 - when you started donating
 
 The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR and our legitimate interest in managing donor relationships as per Art. 6 Abs. 1 lit f . You can retract your consent to having your data stored this way at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
+Hubspot is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
+
 
 You can preview Hubspot’s Privacy Statement [here](https://legal.hubspot.com/privacy-policy).
 
