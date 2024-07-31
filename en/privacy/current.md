@@ -121,6 +121,8 @@ When you are simultaneously logged into Google, the Google service is able to li
 
 You can find Google’s privacy policy at [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy).
 
+Google Custom Search and other products of Google LLC are certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
+
 #### Registration on the Website
 
 You can create an account on our website to use additional features and functionalities. The data entered will be used only in order to provide the services or features for which you have registered. The information requested in the registration process must be completed fully, otherwise the registration will be rejected.

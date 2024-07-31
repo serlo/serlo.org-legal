@@ -123,6 +123,8 @@ Sofern Sie gleichzeitig bei Google eingeloggt sind, ist der Google-Service in de
 
 Weitere Informationen von Google über den Umgang mit Nutzerdaten (Datenschutzerklärung) erhalten Sie auf: [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy)
 
+Google Custom Search und weitere Produkte von Google LLC sind nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
+
 #### Registrierung auf dieser Website
 
 Du kannst dich auf unserer Website registrieren, um zusätzliche Funktionen auf der Seite zu nutzen. Die dazu eingegebenen Daten verwenden wir nur zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes, für den Du dich registriert hast. Die bei der Registrierung abgefragten Pflichtangaben müssen vollständig angegeben werden. Andernfalls werden wir die Registrierung ablehnen.
