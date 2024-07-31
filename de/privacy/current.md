@@ -96,6 +96,18 @@ Weitere Informationen zum Umgang mit Nutzerdaten findest Du in der Datenschutzer
 
 Die Nutzung von Vimeo erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO dar.
 
+#### GeoGebra
+
+Unsere Webseite nutzt Plugins der Mathematiksoftware [GeoGebra](https://www.geogebra.org). Anbieter dieses Dienstes ist die GeoGebra GmbH, Altenbergerstraße 69, 4040 Linz, Österreich.
+
+Wenn Du eine unserer mit einem GeoGebra-Applet ausgestatteten Seiten besuchst, wird eine Verbindung zu den Servern von GeoGebra hergestellt und es werden Informationen über die von Dir besuchten Seiten auf serlo.org übermittelt. Dabei wird auch Deine IP-Adresse an GeoGebra weitergeleitet. Dies geschieht unabhängig davon, ob Du in Deinem GeoGebra-Account eingeloggt bist oder überhaupt bei GeoGebra registriert bist.
+
+Wenn Du in Deinem GeoGebra-Account eingeloggt bist, während Du eine mit einem GeoGebra-Plugin ausgestattete Seite besuchst, ermöglicht dies GeoGebra, Dein Online-Aktivitäten direkt Deinem persönlichen Profil zuzuordnen. Dies kannst Du verhindern, indem Du dich aus Deinem GeoGebra-Account ausloggst, bevor Du unsere Webseite besuchst.
+
+Weitere Informationen findest Du in der Datenschutzerklärung von GeoGebra [hier](https://www.geogebra.org/privacy).
+
+Die Nutzung von GeoGebra erfolgt im Rahmen von Art. 6 Abs. 1 lit. f DSGVO, nämlich aus berechtigtem Interesse, um attraktive audiovisuelle Inhalte innerhalb unseres Online-Angebots bereitzustellen.
+
 #### Google Custom Search
 
 Wir verwenden auf unserer Webseite die „Google benutzerdefinierte Suche“ (Google Custom Search Engine „Google CSE“) als zentralen Suchdienst. Sie ermöglicht eine Volltext-Suche nach Inhalten. Der Zugriff auf diese Suchfunktion ist über die Such-Box in der Kopfzeile der einzelnen Webseiten möglich.
