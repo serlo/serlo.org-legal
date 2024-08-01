@@ -272,9 +272,9 @@ Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden v
 
 Der Versand unseres Newsletters erfolgt über Mailchimp, einer E-Mail Versandplattform, welche in den USA ansässig ist. Anbieter ist die Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA. Die von Mailchimp gesammelten Daten umfassen:
 
-- Die im Rahmen der Registrierung erfassten Daten, also Deine E-Mail Adresse.
-- Daten über die Interaktion mit dem Registrierungsformular: E-Mail Addresse, IP-Adresse, Browsertyp und Betriebssystem, Vor- und Nachnamen (optional).
-- Daten über Deine Interaktion mit dem Newsletter: IP-Adresse, Browsertyp und Betriebssystem.
+- Die im Rahmen der Registrierung auf [serlo.org/auth/registration](https://serlo.org/auth/registration) erfassten Daten, also Deine E-Mail Adresse und deine Rolle (z.B. Schüler, Elternteil), nachdem du deinen Konsent gegeben hast
+- Daten über die Interaktion mit dem Newsletter-Abonnementsformular: E-Mail Addresse, IP-Adresse, Browsertyp und Betriebssystem, deine Rolle und Vor- und Nachnamen (optional).
+- Daten über Deine Interaktion mit den Newsletter-Emails: IP-Adresse, Browsertyp und Betriebssystem.
 
 Mailchimp verwendet für die Datenübertragung in die USA die [Standardvertragsklauseln (SCC)](https://mailchimp.com/legal/data-processing-addendum/) als rechtliche Grundlage, um den Schutz deiner Daten sicherzustellen.
 
@@ -284,7 +284,7 @@ Neben der Nutzung dieser Daten zum Versand und der Auswertung unseres Newsletter
 
 Die Datenverarbeitung geschieht auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO mit Deiner Einwilligung. Du kannst diese Einwilligung jederzeit widerrufen, indem Du den Newsletter abbestellst. Die Rechtmäßigkeit der bereits erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
 
-Wenn Du keine Analyse durch Mailchimp willst, musst Du den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren kannst Du den Newsletter auch direkt auf der Website abbestellen. Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Deiner Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von Mailchimp gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden bleiben hiervon unberührt.
+Wenn Du keine Analyse durch Mailchimp möchtest, musst Du den Newsletter abbestellen. Hierfür stellen wir in jeder Newsletternachricht einen entsprechenden Link zur Verfügung. Des Weiteren kannst Du den Newsletter auch direkt auf der Website abbestellen. Die von Dir zum Zwecke des Newsletter-Bezugs bei uns hinterlegten Daten werden von uns bis zu Deiner Austragung aus dem Newsletter gespeichert und nach der Abbestellung des Newsletters sowohl von unseren Servern als auch von den Servern von Mailchimp gelöscht. Daten, die zu anderen Zwecken bei uns gespeichert wurden bleiben hiervon unberührt.
 
 Die Datenschutzerklärung von Mailchimp findest Du [hier](https://mailchimp.com/legal/privacy/).
 
