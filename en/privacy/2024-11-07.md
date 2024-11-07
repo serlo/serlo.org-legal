@@ -1,4 +1,4 @@
-This data protection notice informs you about how we handle your personal data and about your rights under the European General Data Protection Regulation (GDPR) and the German Federal Data Protection Act (BDSG).  The data processing on this platform is carried out by the platform operator: Serlo Education e.V., represented by Katharina Radstorfer and Simon Köhl.
+This data protection notice informs you about how we handle your personal data and about your rights under the European General Data Protection Regulation (GDPR) and the German Federal Data Protection Act (BDSG). The data processing on this platform is carried out by the platform operator: Serlo Education e.V., represented by Katharina Radstorfer and Simon Köhl.
 
 Contact details:
 
@@ -7,7 +7,6 @@ Rosenheimer Strasse 139
 D-81671 Munich
 E-mail: de@serlo.org
 Telephone number: +4916290701
-
 
 ## Why we capture personal data
 
@@ -130,6 +129,7 @@ You can find more information in GeoGebra's own Privacy Statement [here](https:/
 The use of Geogebra is based on Art. 6(1)(a) GDPR, as explicit consent from the users is obtained. Content from the third-party provider is only loaded when the user has given explicit consent to view the media.
 
 #### Lumi Education (H5P)
+
 Our website uses content from Lumi Education. The provider of this service is Lumi Education UG, represented by Jan Philip Schellenberg, Brückenstraße 8, 38312 Ohrum, Germany.
 
 When visiting one of our pages equipped with an H5P plugin, a connection to the Lumi Education servers is established. The Lumi Education server is informed which of our pages you have visited. Lumi Education also obtains your IP address.
@@ -147,7 +147,6 @@ When visiting one of our pages with an image from Pexels or Pixabay, a connectio
 Further information on the handling of user data can be found in the privacy policies of Pexels [here](https://www.pexels.com/privacy-policy/) and Pixabay [here](https://pixabay.com/service/privacy/).
 
 The legal basis for the processing of personal data is Art. 6(1)(f) GDPR. Our legitimate interest in integrating content from Pexels and Pixabay lies in the optimal delivery of our services.
-
 
 #### Google Custom Search
 
@@ -293,7 +292,6 @@ When you get in contact with us, or decide to make a donation through our donati
 
 The processing of your data occurs based on your consent in accordance with Art. 6 Abs. 1 lit. a GDPR and our legitimate interest in managing donor relationships as per Art. 6 Abs. 1 lit f . You can retract your consent to having your data stored this way at any time. The legitimacy and lawfulness of the processing of your data up to the point of retraction of consent will not be affected by this in any way.
 Hubspot is certified under the Data Privacy Framework, which ensures an adequate level of data protection in accordance with GDPR requirements.
-
 
 You can preview Hubspot’s Privacy Statement [here](https://legal.hubspot.com/privacy-policy).
 

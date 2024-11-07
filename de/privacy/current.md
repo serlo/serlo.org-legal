@@ -1,6 +1,6 @@
 Mit diesen Datenschutzhinweisen informieren wir Dich über unseren Umgang mit Deinen personenbezogenen Daten und über Deine Rechte nach der Europäischen Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG). Verantwortlich für die Datenverarbeitung ist Serlo Education e.V., vertreten durch Katharina Radstorfer und Simon Köhl.
 
-Kontaktdaten: 
+Kontaktdaten:
 
 Serlo Education
 Rosenheimer Straße 139
@@ -94,7 +94,7 @@ Gegebenenfalls können nach dem Starten eines YouTube-Videos weitere Datenverarb
 
 Weitere Informationen über Datenschutz bei YouTube findest Du in deren Datenschutzerklärung [hier](https://policies.google.com/privacy?hl=de).
 
-Die Nutzung von YouTube erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer*innen. Videos und Inhalte von Drittanbietern werden erst geladen, wenn der User Konsent zum Anschauen der Medien gegeben hat.
+Die Nutzung von YouTube erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer\*innen. Videos und Inhalte von Drittanbietern werden erst geladen, wenn der User Konsent zum Anschauen der Medien gegeben hat.
 
 #### Vimeo
 
@@ -106,7 +106,7 @@ Wenn Du in Deinem Vimeo-Account eingeloggt bist, ermöglichst Du Vimeo, Dein Sur
 
 Weitere Informationen zum Umgang mit Nutzerdaten findest Du in der Datenschutzerklärung von Vimeo [hier](https://vimeo.com/privacy).
 
-Die Nutzung von Vimeo erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, da explizite Einwilligung der Nutzer*innen vorliegt. Videos und Inhalte von Drittanbietern werden erst geladen, wenn der User explizit Konsent zum Anschauen der Medien gegeben hat.
+Die Nutzung von Vimeo erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, da explizite Einwilligung der Nutzer\*innen vorliegt. Videos und Inhalte von Drittanbietern werden erst geladen, wenn der User explizit Konsent zum Anschauen der Medien gegeben hat.
 
 #### Wikimedia Commons
 
@@ -128,7 +128,7 @@ Wenn Du in Deinem GeoGebra-Account eingeloggt bist, während Du eine mit einem G
 
 Weitere Informationen findest Du in der Datenschutzerklärung von GeoGebra [hier](https://www.geogebra.org/privacy).
 
-Die Nutzung von Geogebra erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer*innen vorliegt. Die Inhalte von dem Drittanbieter werden erst geladen, wenn der User Konsent gegeben hat.
+Die Nutzung von Geogebra erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer\*innen vorliegt. Die Inhalte von dem Drittanbieter werden erst geladen, wenn der User Konsent gegeben hat.
 
 #### Lumi Education (H5P)
 
@@ -138,7 +138,7 @@ Wenn Du eine unserer mit einem H5P-Plugin ausgestatteten Seiten besuchst, wird e
 
 Weitere Informationen zum Umgang mit Nutzerdaten findest Du in der Datenschutzerklärung von Lumi Education [hier](https://lumi.education/de/datenschutzrichtlinie/).
 
-Die Nutzung von Lumi Education erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer*innen. Inhalte von Drittanbietern werden erst geladen, wenn der User explizit Konsent zum Anschauen der Medien gegeben hat.
+Die Nutzung von Lumi Education erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer\*innen. Inhalte von Drittanbietern werden erst geladen, wenn der User explizit Konsent zum Anschauen der Medien gegeben hat.
 
 #### Canva Germany GmbH
 
@@ -148,7 +148,7 @@ Wenn Du eine unserer Seiten mit einem Bild von Pexels oder Pixabay besuchst, wir
 
 Weitere Informationen zum Umgang mit Nutzerdaten findest Du in den Datenschutzerklärungen von Pexels [hier](https://www.pexels.com/de-DE/privacy-policy/) und Pixabay [hier](https://pixabay.com/de/service/privacy/).
 
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse, Inhalte von Pexels und Pixabay einzubinden, liegt in der optimalen Bereitstellung unserer Dienste. 
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse, Inhalte von Pexels und Pixabay einzubinden, liegt in der optimalen Bereitstellung unserer Dienste.
 
 #### Google Custom Search
 
@@ -167,7 +167,7 @@ Weitere Informationen von Google über den Umgang mit Nutzerdaten (Datenschutzer
 
 Google Custom Search und weitere Produkte von Google LLC sind nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
-Die Nutzung von Google Custom Search erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer*innen. Die Skripte zur Suche werden erst geladen, wenn der User Konsent gegeben hat.
+Die Nutzung von Google Custom Search erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer\*innen. Die Skripte zur Suche werden erst geladen, wenn der User Konsent gegeben hat.
 
 #### Registrierung auf dieser Website
 
@@ -223,9 +223,6 @@ Diese Webseite nutzt den Dienst [Vercel](https://vercel.com/). Der Anbieter ist 
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen.
 Vercel ist zusätzlich nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
-
-
-
 
 Die Datenschutzerklärung von Vercel findest Du unter [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy).
 
