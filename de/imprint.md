@@ -7,6 +7,7 @@ Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen Gemeinnüt
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet: DE347004738
 
 Der verantwortliche Ansprechpartner ist der Vorstand:
+
 - Katharina Radstorfer (Vorsitzende)
 - Simon Köhl (Mitglied des Vorstands)
 
