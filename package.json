@@ -9,7 +9,7 @@
   "license": "UNLICENSED",
   "author": "Serlo Education e.V.",
   "scripts": {
-    "format": "prettier . --write"
+    "format": "prettier . --write --prose-wrap always"
   },
   "devDependencies": {
     "prettier": "^3.0.0",
