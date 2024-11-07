@@ -136,7 +136,7 @@ Unsere Webseite nutzt einige Inhalte von Lumi Education. Anbieter dieses Dienste
 
 Wenn Du eine unserer mit einem H5P-Plugin ausgestatteten Seiten besuchst, wird eine Verbindung zu den Servern von Lumi Education hergestellt. Dabei wird dem Server von Lumi Education mitgeteilt, welche unserer Seiten Du besucht hast. Zudem erlangt Lumi Education Deine IP-Adresse.
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest Du in der Datenschutzerklärung von Lumi Education hier.
+Weitere Informationen zum Umgang mit Nutzerdaten findest Du in der Datenschutzerklärung von Lumi Education [hier](https://lumi.education/de/datenschutzrichtlinie/).
 
 Die Nutzung von Lumi Education erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer*innen. Inhalte von Drittanbietern werden erst geladen, wenn der User explizit Konsent zum Anschauen der Medien gegeben hat.
 
@@ -146,7 +146,7 @@ Unsere Webseite nutzt einige Inhalte von Pexels und Pixabay. Anbieter dieser Die
 
 Wenn Du eine unserer Seiten mit einem Bild von Pexels oder Pixabay besuchst, wird eine Verbindung zu den Servern von Canva Germany GmbH hergestellt. Dabei wird dem Server von Canva mitgeteilt, welche unserer Seiten Du besucht hast. Zudem erlangt Canva Deine IP-Adresse.
 
-Weitere Informationen zum Umgang mit Nutzerdaten findest Du in den Datenschutzerklärungen von Pexels hier und Pixabay hier. 
+Weitere Informationen zum Umgang mit Nutzerdaten findest Du in den Datenschutzerklärungen von Pexels [hier](https://www.pexels.com/de-DE/privacy-policy/) und Pixabay [hier](https://pixabay.com/de/service/privacy/).
 
 Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse, Inhalte von Pexels und Pixabay einzubinden, liegt in der optimalen Bereitstellung unserer Dienste. 
 
@@ -223,6 +223,8 @@ Diese Webseite nutzt den Dienst [Vercel](https://vercel.com/). Der Anbieter ist 
 
 Diese Daten werden je nach Serverstandort auch in die USA übertragen. Wir haben mit Vercel einen Vertrag über die Auftragsverarbeitung abgeschlossen.
 Vercel ist zusätzlich nach dem Data Privacy Framework zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
+
+
 
 
 Die Datenschutzerklärung von Vercel findest Du unter [https://vercel.com/legal/privacy-policy](https://vercel.com/legal/privacy-policy).
