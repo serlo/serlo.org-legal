@@ -6,7 +6,10 @@ durch Katharina Radstorfer und Simon Köhl.
 
 Kontaktdaten:
 
-Serlo Education Rosenheimer Straße 139 D-81671 München E-Mail: de@serlo.org
+Serlo Education  
+Rosenheimer Straße 139  
+D-81671 München  
+E-Mail: de@serlo.org  
 Telefonnummer: +491629070168
 
 ## Warum erfassen wir personenbezogene Daten
