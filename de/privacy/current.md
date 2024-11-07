@@ -1,4 +1,4 @@
-Mit diesen Datenschutzhinweisen informieren wir Dich über unseren Umgang mit Deinen personenbezogenen Daten und über Deine Rechte nach der Europäischen Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG). Verantwortlich für die Datenverarbeitung ist Serlo Education, vertreten durch Katharina Radstorfer und Simon Köhl.
+Mit diesen Datenschutzhinweisen informieren wir Dich über unseren Umgang mit Deinen personenbezogenen Daten und über Deine Rechte nach der Europäischen Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG). Verantwortlich für die Datenverarbeitung ist Serlo Education e.V., vertreten durch Katharina Radstorfer und Simon Köhl.
 
 Kontaktdaten: 
 
