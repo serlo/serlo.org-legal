@@ -6,7 +6,10 @@ represented by Katharina Radstorfer and Simon Köhl.
 
 Contact details:
 
-Serlo Education Rosenheimer Strasse 139 D-81671 Munich E-mail: de@serlo.org
+Serlo Education  
+Rosenheimer Strasse 139  
+D-81671 Munich  
+E-mail: de@serlo.org  
 Telephone number: +4916290701
 
 ## Why we capture personal data
