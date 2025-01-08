@@ -9,10 +9,7 @@ Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet:
 DE347004738
 
-Der verantwortliche Ansprechpartner ist der Vorstand:
-
-- Katharina Radstorfer (Vorsitzende)
-- Simon Köhl (Mitglied des Vorstands)
+Der verantwortliche Ansprechpartner ist der Vorsitzende des Vorstands Simon Köhl.
 
 ## Anschrift und Kontakt
 
