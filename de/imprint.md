@@ -16,7 +16,7 @@ Der verantwortliche Ansprechpartner ist der Vorstand:
 
 ## Anschrift und Kontakt
 
-Serlo Education<br> Rosenheimerstraße 139<br> D-81671 München
+Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371 München
 
 E-Mail: [de@serlo.org](mailto:de@serlo.org)<br> Telefonnummer: +491629070168
 

@@ -14,7 +14,7 @@ The responsible contact persons are the board members: Katharina Radstorfer
 
 ### Postal address and contact:
 
-Serlo Education<br> Rosenheimerstraße 139<br> D-81671 München
+Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371 München
 
 email: [en@serlo.org](mailto:en@serlo.org)<br> phone: +491629070168
 
