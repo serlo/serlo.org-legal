@@ -1,5 +1,5 @@
 # Serlo legal documents
 
 This repository contains all legal documents for the website https://serlo.org/.
-See https://github.com/serlo/serlo.org-cloudflare-worker for a documentation
-(the legal documents are served by our cloudflare worker).
+
+The markdown files are consumed by the [frontend](https://github.com/serlo/frontend) and will be public after a deploy.
