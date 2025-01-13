@@ -13,7 +13,8 @@ The responsible contact person is the board chairman Simon Köhl.
 
 ### Postal address and contact:
 
-Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371 München
+Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371
+München
 
 email: [en@serlo.org](mailto:en@serlo.org)<br> phone: +491629070168
 
