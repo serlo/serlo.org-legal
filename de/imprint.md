@@ -9,11 +9,13 @@ Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
 Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet:
 DE347004738
 
-Der verantwortliche Ansprechpartner ist der Vorsitzende des Vorstands Simon Köhl.
+Der verantwortliche Ansprechpartner ist der Vorsitzende des Vorstands Simon
+Köhl.
 
 ## Anschrift und Kontakt
 
-Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371 München
+Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371
+München
 
 E-Mail: [de@serlo.org](mailto:de@serlo.org)<br> Telefonnummer: +491629070168
 
