@@ -319,9 +319,10 @@ Aufenthaltsort ab:
   Europäischen Wirtschaftsraum oder der Schweiz haben.
 - Google LLC, mit Sitz in 1600 Amphitheatre Parkway, Mountain View, CA 94043,
   USA, für Nutzer von Google-Diensten, die ihren gewöhnlichen Aufenthalt im
-  Vereinigten Königreich haben. Google LLC ist nach dem Data Privacy Framework
-  zertifiziert, was ein angemessenes Datenschutzniveau gemäß den Vorgaben der
-  DSGVO sicherstellt.
+  Vereinigten Königreich haben.
+
+Google LLC ist nach dem Data Privacy Framework zertifiziert, was ein
+angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Weitere Informationen von Google über den Umgang mit Nutzerdaten
 (Datenschutzerklärung) erhalten Sie auf:

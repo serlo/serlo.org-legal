@@ -163,9 +163,10 @@ information depends on where you are based:
   Economic Area or Switzerland, located at Gordon House, Barrow Street, Dublin
   4, Ireland.
 - Google LLC for users of Google services based in the United Kingdom, located
-  at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. Google LLC
-  is certified under the Data Privacy Framework, which ensures an adequate level
-  of data protection in accordance with GDPR requirements.
+  at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+
+Google LLC is certified under the Data Privacy Framework, which ensures an
+adequate level of data protection in accordance with GDPR requirements.
 
 You can find more information in YouTube’s own Privacy Statement
 [here](https://policies.google.com/privacy?hl=en).
@@ -294,9 +295,10 @@ information depends on where you are based:
   Economic Area or Switzerland, located at Gordon House, Barrow Street, Dublin
   4, Ireland.
 - Google LLC for users of Google services based in the United Kingdom, located
-  at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. Google LLC
-  is certified under the Data Privacy Framework, which ensures an adequate level
-  of data protection in accordance with GDPR requirements.
+  at 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.
+
+Google LLC is certified under the Data Privacy Framework, which ensures an
+adequate level of data protection in accordance with GDPR requirements.
 
 You can find Google’s privacy policy at
 [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy).
