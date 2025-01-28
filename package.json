@@ -12,8 +12,8 @@
     "format": "prettier . --write --prose-wrap always"
   },
   "devDependencies": {
-    "prettier": "^3.0.0",
-    "prettier-plugin-packagejson": "^2.4.5"
+    "prettier": "^3.4.2",
+    "prettier-plugin-packagejson": "^2.5.8"
   },
   "packageManager": "yarn@3.6.1",
   "engines": {
