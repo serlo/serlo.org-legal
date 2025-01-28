@@ -108,9 +108,9 @@ dist
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Yarn (with Zero-Installs / see https://stackoverflow.com/a/60184331)
+# Yarn (without PnP and Zero-Installs)
+.pnp.*
 .yarn/*
-!.yarn/cache
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
