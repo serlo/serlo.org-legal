@@ -313,8 +313,8 @@ You can find Google’s privacy policy at
 
 Google Custom Search is used on the basis of Art. 6(1)(a) GDPR, with the
 explicit consent of the user. The search scripts are only loaded once the user
-has given consent. You can withdraw your consent at any time at
-https://de.serlo.org/consent.
+has given consent. You can withdraw your consent at any time
+[here](https://de.serlo.org/consent).
 
 #### Registration on the Website
 

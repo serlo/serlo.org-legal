@@ -188,7 +188,7 @@ Datenschutzerklärung [hier](https://policies.google.com/privacy?hl=de).
 Die Nutzung von YouTube erfolgt auf Grundlage des Art. 6 Abs. 1 lit. a DSGVO,
 nach expliziter Einwilligung der Nutzer\*innen. Videos und Inhalte von
 Drittanbietern werden erst geladen, wenn der User Konsent zum Anschauen der
-Medien gegeben hat. Du kannst deine Einwilligung jederzeit unter
+Medien gegeben hat. Du kannst deine Einwilligung jederzeit
 [hier](https://de.serlo.org/consent) widerrufen.
 
 #### Vimeo
