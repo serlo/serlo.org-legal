@@ -133,9 +133,8 @@ adequate level of data protection in accordance with GDPR requirements.
 You can find Google’s privacy policy at
 [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy).
 
-Google Custom Search is used on the basis of Art. 6(1)(a) GDPR, with the
-explicit consent of the user. The search scripts are only loaded once the user
-has given consent. You can withdraw your consent at any time
+Google Tag Manager and Google Ads are used on the basis of Art. 6(1)(a) GDPR,
+with the explicit consent of the user. You can withdraw your consent at any time
 [here](https://de.serlo.org/consent).
 
 #### Sentry
