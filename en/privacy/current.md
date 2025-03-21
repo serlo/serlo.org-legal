@@ -103,11 +103,12 @@ don’t) in
 
 #### Google Tag Manager and Google Ads
 
-We use Google Tag Manager and Google Ads. These tools allow us to get insights
-into how users interact with our website. If you are redirected to serlo.org via
-a Google Ads advertisement on another site, we will ask for your consent before
-activating Google Tag Manager. No data will be transmitted to Google until you
-have given your approval.
+We use Google Tag Manager and Google Ads at the area
+[Mathe-Prüfungen](https://de.serlo.org/mathe-pruefungen/) and its subpages.
+These tools allow us to get insights into how users interact with our website.
+If you are redirected to serlo.org via a Google Ads advertisement on another
+site, we will ask for your consent before activating Google Tag Manager. No data
+will be transmitted to Google until you have given your approval.
 
 Once you have consented, personal data will be shared with Google Ads via Google
 Tag Manager. This includes, among other things, your IP address, your

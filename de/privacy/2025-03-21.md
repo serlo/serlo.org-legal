@@ -108,9 +108,11 @@ nicht), gibt es in
 
 #### Google Tag Manager und Google Ads
 
-Wir verwenden den Google Tag Manager und Google Ads. Diese ermöglichen uns,
-Einblicke darüber zu gewinnen, wie Nutzer\*innen unsere Webseite verwenden. Wenn
-Du durch eine Google-Ads-Werbung auf einer anderen Webseite zu serlo.org
+Wir verwenden auf einem Bereich von Serlo, nämlich auf
+[Mathe-Prüfungen](https://de.serlo.org/mathe-pruefungen/) und seine
+untergeordneten Seiten, den Google Tag Manager und Google Ads. Diese ermöglichen
+uns, Einblicke darüber zu gewinnen, wie Nutzer\*innen unsere Webseite verwenden.
+Wenn Du durch eine Google-Ads-Werbung auf einer anderen Webseite zu serlo.org
 weitergeleitet wirst, fragen wir Dich, ob der Google Tag Manager aktiviert
 werden darf. Grundsätzlich werden keine Daten an Google übertragen, bevor Du
 Deine Zustimmung gegeben hast.
