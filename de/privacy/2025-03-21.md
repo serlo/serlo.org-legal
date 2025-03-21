@@ -120,10 +120,9 @@ Manager an Google Ads weitergegeben. Dazu gehören unter anderem Deine
 IP-Adresse, Deine Interaktionen auf der jeweiligen Seite sowie Informationen
 über Dein Gerät und Deinen Browser.
 
-Sofern Sie gleichzeitig bei Google eingeloggt sind, ist der Google-Service in
-der Lage, die Informationen unmittelbar Ihrem Nutzerprofil zuzuordnen. Sie
-sollten sich ausloggen, um eine Sammlung von Profilinformationen über Sie zu
-vermeiden.
+Sofern Du gleichzeitig bei Google eingeloggt bist, ist der Google-Service in der
+Lage, die Informationen unmittelbar Deinem Nutzerprofil zuzuordnen. Du sollst
+Dich ausloggen, um eine Sammlung von Profilinformationen über Dich zu vermeiden.
 
 Wenn Du in Europa wohnst, hängt der Datenverantwortliche, der für die
 Verarbeitung Deiner Informationen zuständig ist, von Deinem gewöhnlichen
@@ -140,7 +139,7 @@ Google LLC ist nach dem Data Privacy Framework zertifiziert, was ein
 angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Weitere Informationen von Google über den Umgang mit Nutzerdaten
-(Datenschutzerklärung) erhalten Sie auf:
+(Datenschutzerklärung) erhältst Du auf:
 [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy)
 
 Die Nutzung von Google Tag Manager und Google Ads erfolgt auf Grundlage des Art.
@@ -345,8 +344,8 @@ Google übertragen. Die betrifft unter anderen:
 - die IP-Adresse des benutzten Rechners
 
 Mit der Benutzung der Volltext-Suche und dem damit einhergehenden Anklicken der
-Such-Box stimmen Sie der Nutzung des Google-Suchdienstes und damit auch der
-Übertragung von Daten an den Google-Service zu. Wir weisen Sie ausdrücklich
+Such-Box stimmst Du der Nutzung des Google-Suchdienstes und damit auch der
+Übertragung von Daten an den Google-Service zu. Wir weisen Dich ausdrücklich
 darauf hin, dass die Verarbeitung, insbesondere die Speicherung, Löschung und
 Nutzung von möglicherweise übertragenen personenbezogenen Daten dem Anbieter des
 Suchdienstes obliegt und wir auf die Art und den Umfang der übertragenen Daten
@@ -355,10 +354,9 @@ Zustimmung und bei der Benutzung können andere Cookies aus der Google-Services
 angeleget werden, beispielweise Google Fonts, die erforderlich für den richtigen
 Betrieb dieser Services sind.
 
-Sofern Sie gleichzeitig bei Google eingeloggt sind, ist der Google-Service in
-der Lage, die Informationen unmittelbar Ihrem Nutzerprofil zuzuordnen. Sie
-sollten sich ausloggen, um eine Sammlung von Profilinformationen über Sie zu
-vermeiden.
+Sofern Du gleichzeitig bei Google eingeloggt bist, ist der Google-Service in der
+Lage, die Informationen unmittelbar Deinem Nutzerprofil zuzuordnen. Du sollst
+Dich ausloggen, um eine Sammlung von Profilinformationen über Dich zu vermeiden.
 
 Wenn Du in Europa wohnst, hängt der Datenverantwortliche, der für die
 Verarbeitung Deiner Informationen zuständig ist, von Deinem gewöhnlichen
@@ -375,7 +373,7 @@ Google LLC ist nach dem Data Privacy Framework zertifiziert, was ein
 angemessenes Datenschutzniveau gemäß den Vorgaben der DSGVO sicherstellt.
 
 Weitere Informationen von Google über den Umgang mit Nutzerdaten
-(Datenschutzerklärung) erhalten Sie auf:
+(Datenschutzerklärung) erhältst Du auf:
 [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy)
 
 Die Nutzung von Google Custom Search erfolgt auf Grundlage des Art. 6 Abs. 1
@@ -548,7 +546,7 @@ Einwilligung zur Datenverarbeitung jederzeit zu widerrufen. Ein Widerruf wirkt
 sich auf die Wirksamkeit von in der Vergangenheit liegenden
 Datenverarbeitungsvorgängen nicht aus.
 
-Details zur Zahlung mit Sofortüberweisung entnehmen Sie folgenden Links:
+Details zur Zahlung mit Sofortüberweisung entnimmst Du folgenden Links:
 [https://www.sofort.de/datenschutz.html](https://www.sofort.de/datenschutz.html)
 und [https://www.klarna.com/sofort/](https://www.klarna.com/sofort/).
 
