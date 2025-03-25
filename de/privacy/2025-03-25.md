@@ -146,7 +146,7 @@ Weitere Informationen von Google über den Umgang mit Nutzerdaten
 
 Die Nutzung von Google Tag Manager und Google Ads erfolgt auf Grundlage des Art.
 6 Abs. 1 lit. a DSGVO, nach expliziter Einwilligung der Nutzer\*innen. Du kannst
-deine Einwilligung jederzeit [hier](https://de.serlo.org/consent) widerrufen.
+deine Zustimmung jeder Zeit wiederrufen in dem du die Seite neu lädst.
 
 #### Sentry
 

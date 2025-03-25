@@ -135,8 +135,8 @@ You can find Google’s privacy policy at
 [http://www.google.com/intl/de/policies/privacy](http://www.google.com/intl/de/policies/privacy).
 
 Google Tag Manager and Google Ads are used on the basis of Art. 6(1)(a) GDPR,
-with the explicit consent of the user. You can withdraw your consent at any time
-[here](https://de.serlo.org/consent).
+with the explicit consent of the user. To withdraw your consent you just need to
+refresh the page.
 
 #### Sentry
 
