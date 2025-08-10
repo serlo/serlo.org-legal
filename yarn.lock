@@ -5,10 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@pkgr/core@npm:^0.2.4":
-  version: 0.2.5
-  resolution: "@pkgr/core@npm:0.2.5"
-  checksum: 9df63a2b98c26532ca7c7b468c31e1826b3f340e22e3f7929f93e4082c172b8811dcf655db1e7301bde7ada211d81818a682bb33fdcf173dce4b3fc223022436
+"@pkgr/core@npm:^0.2.9":
+  version: 0.2.9
+  resolution: "@pkgr/core@npm:0.2.9"
+  checksum: bb2fb86977d63f836f8f5b09015d74e6af6488f7a411dcd2bfdca79d76b5a681a9112f41c45bdf88a9069f049718efc6f3900d7f1de66a2ec966068308ae517f
   languageName: node
   linkType: hard
 
@@ -17,7 +17,7 @@ __metadata:
   resolution: "@serlo/serlo.org-legal@workspace:."
   dependencies:
     prettier: ^3.6.2
-    prettier-plugin-packagejson: ^2.5.17
+    prettier-plugin-packagejson: ^2.5.19
   languageName: unknown
   linkType: soft
 
@@ -68,18 +68,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-packagejson@npm:^2.5.17":
-  version: 2.5.17
-  resolution: "prettier-plugin-packagejson@npm:2.5.17"
+"prettier-plugin-packagejson@npm:^2.5.19":
+  version: 2.5.19
+  resolution: "prettier-plugin-packagejson@npm:2.5.19"
   dependencies:
-    sort-package-json: 3.3.1
-    synckit: 0.11.8
+    sort-package-json: 3.4.0
+    synckit: 0.11.11
   peerDependencies:
     prettier: ">= 1.16.0"
   peerDependenciesMeta:
     prettier:
       optional: true
-  checksum: 463db60adff98301fe8e3ea6b58c3f87dd051a3b590781d5e29cf7bc789c82e5bfca6584ad95aec321845aa9fd404582ce0d90f1b1982118d713d0fe9eb8f66d
+  checksum: a3caba8b62f92b53a8414cf1061a87bb5931e790c77022c64f3fa12122cf78b392912525deb9671bcdb196106a3078d4dcc6ae076fe2e14e26931b9d9b0195f1
   languageName: node
   linkType: hard
 
@@ -108,9 +108,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sort-package-json@npm:3.3.1":
-  version: 3.3.1
-  resolution: "sort-package-json@npm:3.3.1"
+"sort-package-json@npm:3.4.0":
+  version: 3.4.0
+  resolution: "sort-package-json@npm:3.4.0"
   dependencies:
     detect-indent: ^7.0.1
     detect-newline: ^4.0.1
@@ -121,16 +121,16 @@ __metadata:
     tinyglobby: ^0.2.12
   bin:
     sort-package-json: cli.js
-  checksum: be138fee0034a29558d9d2a905fb22e78837b315501fd43e843c5cb425b691248613e0e27f8c2a1fece93bc080f9093041c420e7197f7a193182e6c33d597a35
+  checksum: 47ee11a14c6882954b537b59e7a66994adfc8ce370ca957d89d52c0379067900ee9f322625f496f00e2e5c01554c90633839f562a6bcb4f1bc1f262cf69a2072
   languageName: node
   linkType: hard
 
-"synckit@npm:0.11.8":
-  version: 0.11.8
-  resolution: "synckit@npm:0.11.8"
+"synckit@npm:0.11.11":
+  version: 0.11.11
+  resolution: "synckit@npm:0.11.11"
   dependencies:
-    "@pkgr/core": ^0.2.4
-  checksum: dd7193736e0b5eb209192e280649b98b539537bf23bef20c8a2b24cd12ccde47bcf4e77773ff9cb66c35960d2cb41e28c05e0b19124488abbfb6423258b56275
+    "@pkgr/core": ^0.2.9
+  checksum: bc896d4320525501495654766e6b0aa394e522476ea0547af603bdd9fd7e9b65dcd6e3a237bc7eb3ab7e196376712f228bf1bf6ed1e1809f4b32dc9baf7ad413
   languageName: node
   linkType: hard
 
