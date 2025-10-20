@@ -565,7 +565,7 @@ Datenschutzbeauftragten wenden:
 
 SPIRIT LEGAL Rechtsanwaltsgesellschaft mbH<br>
 Rechtsanwalt und Datenschutzbeauftragter<br>
-Peter Hense<br>
+Peter Hense
 
 Postanschrift: Datenschutzbeauftragter c/o Chancenwerk e.V., Am Markt 18,
 44575 Castrop-Rauxel
