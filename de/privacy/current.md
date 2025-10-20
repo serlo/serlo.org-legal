@@ -3,10 +3,10 @@ Deinen personenbezogenen Daten und über Deine Rechte nach der Europäischen
 Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG).
 Verantwortlich für die Datenverarbeitung ist:
 
-Chancenwerk e.V.
-Am Markt 18
-44575 Castrop-Rauxel
-Telefon: +49 (2305) 90 23 94 0
+Chancenwerk e.V.<br>
+Am Markt 18<br>
+44575 Castrop-Rauxel<br>
+Telefon: +49 (2305) 90 23 94 0<br>
 E-Mail: [kontakt@chancenwerk.org](mailto:kontakt@chancenwerk.org)
 
 ## Warum erfassen wir personenbezogene Daten
