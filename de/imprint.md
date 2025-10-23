@@ -1,88 +1,41 @@
-„Serlo" ist im Internet unter [www.serlo.org](https://serlo.org/) zu finden.
+## Inhaber der Seite und verantwortlich für den Inhalt
 
-Anbieter dieser Website ist der [Serlo Education e. V.](/21437), eingetragen
-beim Amtsgericht München unter der Nummer: 202808.
+Chancenwerk e.V.<br>
+Am Markt 18<br>
+44575 Castrop‑Rauxel
 
-Der Serlo Education e. V. ist ein Verein nach deutschem Recht, dessen
-Gemeinnützigkeit und Selbstlosigkeit staatlich anerkannt sind.
+## In eigener Sache
 
-Die Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz lautet:
-DE347004738
+Wir möchten uns bei allen Freund:innen, Partner:innen, Unterstützer:innen, Schulpartner:innen, Schüler:innen sowie deren Erziehungsberechtigten sehr herzlich für die Unterstützung bei der Umsetzung und Gestaltung unserer Website bedanken. Es ist toll, mit solchen Partner:innen zusammenzuarbeiten!
 
-Der verantwortliche Ansprechpartner ist der Vorsitzende des Vorstands Simon
-Köhl.
+## Kontakt
 
-## Anschrift und Kontakt
+Murat Vural (Geschäftsführender Vorsitzender)<br>
+Chancenwerk e.V.<br>
+Am Markt 18<br>
+44575 Castrop‑Rauxel<br>
++49 (2305) 90 23 94 0<br>
+[kontakt@chancenwerk.org](mailto:kontakt@chancenwerk.org)
 
-Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371
-München
+## Verein
 
-E-Mail: [de@serlo.org](mailto:de@serlo.org)<br> Telefonnummer: +491629070168
+**Vereinsregister:** Eingetragen beim Amtsgericht Dortmund
+**Vereinsregisternummer:** VR 11477
 
-## Konto
+## Vertreter
 
-Serlo Education e. V.<br> IBAN: DE98 4306 0967 8204 5906 00<br> BIC: GENODEM1GLS
-(GLS Bank)
+Chancenwerk e.V. wird gesetzlich vertreten durch den Vereinsvorstand, dieser wiederum durch den Vorsitzenden Murat Vural.
 
-Knr: 8204590600<br> BLZ: 43060967
+## Rechtliche Hinweise zur Organisationsform
 
-## Haftung für Inhalte
+Chancenwerk e.V. ist eine gemeinnützige Einrichtung, die in der Rechtsform eines eingetragenen Vereins organisiert ist.
 
-Die aktiven Nutzer\*innen sind aufgerufen, alle Inhalte, die sie zu dieser
-Website beisteuern, nach bestem Wissen zu erstellen. Die Inhalte auf Serlo
-entstehen gemeinschaftlich, offen und ohne direkte redaktionelle Begleitung und
-Kontrolle. Viele der Inhalte können jederzeit durch alle aktiven Mitglieder
-verändert werden. Alle Autoren und Autorinnen sind für die von ihnen erstellten
-Beiträge selbst in vollem Umfang verantwortlich. Einen Ausschluss einzelner
-Benutzer\*innen behält sich der Anbieter ausdrücklich vor.
+## Rechtliche Hinweise zur Haftung / Disclaimer
 
-Auf Grund der offenen Struktur von Serlo und der häufigen Änderungen der Inhalte
-ist es möglich, dass Sie hier auf unrichtige, unvollständige, veraltete,
-widersprüchliche, in falschem Zusammenhang stehende oder verkürzte Angaben
-treffen. Es kann deshalb keine Verantwortung für Schäden übernommen werden, die
-durch das Vertrauen auf die Inhalte dieser Website oder deren Gebrauch
-entstehen. Die als Administratoren oder Moderatoren bezeichneten Benutzer\*innen
-von Serlo sowie die Benutzer\*innen mit sonstigen erweiterten Rechten sind keine
-offiziellen Vertreter des Website-Anbieters, sondern lediglich Benutzer, denen
-weitergehende technische Möglichkeiten eingeräumt wurden. Diese Personen helfen
-in der Regel gern und schnell bei eventuellen Fragen oder Beanstandungen, sind
-jedoch nicht persönlich für diese Website – insbesondere nicht im Hinblick auf
-Richtigkeit, Aktualität und Vollständigkeit der zur Verfügung gestellten
-Informationen – verantwortlich.
+Chancenwerk e.V. ist um Richtigkeit und Aktualität der auf dieser Internetpräsenz bereitgestellten Informationen bemüht. Trotzdem können Fehler und Unklarheiten nicht vollständig ausgeschlossen werden. Chancenwerk e.V. übernimmt deshalb keine Gewähr für die Aktualität, Richtigkeit, Vollständigkeit oder Qualität der bereitgestellten Informationen. Für Schäden materieller oder immaterieller Art, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollständiger Informationen unmittelbar oder mittelbar verursacht werden, haftet Chancenwerk e.V. nicht, sofern ihr nicht nachweislich vorsätzliches oder grob fahrlässiges Verschulden zur Last fällt. Gleiches gilt für kostenlos zum Download bereitgehaltene Software. Chancenwerk e.V. behält es sich vor, Teile des Internetangebots oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
 
-## Informationen für Rechteinhaber
+Die Verantwortlichkeit für „fremde Inhalte”, die beispielsweise durch direkte oder indirekte Verknüpfungen (z. B. sogenannte “Links”) zu anderen Anbietern bereitgehalten werden, setzt unter anderem positive Kenntnis des rechtswidrigen bzw. strafbaren Inhaltes voraus. “Fremde Inhalte” sind in geeigneter Weise gekennzeichnet. Chancenwerk e.V. hat auf “fremde Inhalte” keinerlei Einfluss und macht sich diese Inhalte auch nicht zu Eigen. Chancenwerk e.V. hat keine positive Kenntnis über rechtswidrige oder anstößige Inhalte auf den verknüpften Seiten fremder Anbieter. Sollten auf den verknüpften Seiten fremder Anbieter dennoch rechtswidrige oder anstößige Inhalte enthalten sein, so distanziert sich Chancenwerk e.V. von diesen Inhalten ausdrücklich.
 
-Der Website-Anbieter weist auf allen Eingabeseiten darauf hin, kein Material zu
-verwenden, das Urheberrechten Dritter unterliegt. Es kann aber nicht
-ausgeschlossen werden, dass von Benutzern dennoch unbefugt Material eingebracht
-wird, das bestehende Schutzrechte verletzt, und das nicht sofort als solches
-erkannt wird.
+## Urheberrechtshinweise
 
-Wenn dem Anbieter eine entsprechende Urheberrechtsverletzung angezeigt wird,
-wird das betreffende Material umgehend entfernt. Offizieller Ansprechpartner für
-solche Fälle ist der Vorstand des Trägervereins. Gerne können Sie Ihre
-Beschwerde an folgende Adresse richten: vorstand@serlo.org - die E-Mail sollte
-den betroffenen Inhalt auf Serlo genau bezeichnen sowie die Publikation oder
-Website nennen, aus der das Material unberechtigt übernommen wurde.
-
-## Urheberrecht
-
-Bitte beachten Sie die diesbezüglichen Angaben in unseren
-[Nutzungsbedingungen](/terms).
-
-## Haftung für Links
-
-Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir
-keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine
-Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige
-Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden
-zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft.
-Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine
-permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
-Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
-Rechtsverletzungen werden wir derartige Links umgehend entfernen.
-
-## Datenschutz
-
-Bitte beachten Sie die diesbezüglichen Angaben in unserer
-[Datenschutzerklärung](/privacy).
+Alle auf dieser Website veröffentlichten Beiträge und Abbildungen sind urheberrechtlich geschützt. Jede vom Urheberrechtsgesetz nicht zugelassene Verwertung bedarf vorheriger schriftlicher Zustimmung der Anbieter. Dies gilt insbesondere für Vervielfältigung, Bearbeitung, Übersetzung, Einspeicherung, Verarbeitung bzw. Wiedergabe von Inhalten in Datenbanken oder anderen elektronischen Medien und Systemen. Fotokopien und Downloads von Web-Seiten dürfen nur für den persönlichen, privaten und nicht kommerziellen Gebrauch hergestellt werden.
