@@ -1,82 +1,41 @@
-“Serlo” can be found online at [www.serlo.org](https://serlo.org/).
+## Owner of the Site and Responsible for the Content
 
-Provider of this website is the Serlo Education e. V., registered at the
-District Dourt Munich with the number: 202808.
+Chancenwerk e.V.<br>
+Am Markt 18<br>
+44575 Castrop-Rauxel
 
-The “Serlo Education e.V.” is an association under german law, whose charitable
-status is officially recognised by the german state.
+## In Our Own Matter
 
-The sales-tax registration-number following §27a Umsatzsteuergesetz of the
-German Law is: DE347004738
+We would like to sincerely thank all friends, partners, supporters, school partners, students, and their guardians for their help in the implementation and design of our website. It is wonderful to work with such partners!
 
-The responsible contact person is the board chairman Simon Köhl.
+## Contact
 
-### Postal address and contact:
+Murat Vural (Executive Chairman)<br>
+Chancenwerk e.V.<br>
+Am Markt 18<br>
+44575 Castrop-Rauxel<br>
++49 (2305) 90 23 94 0<br>
+[kontakt@chancenwerk.org](mailto:kontakt@chancenwerk.org)
 
-Serlo Education<br> c/o Impact Hub München<br> Gotzinger Straße 8<br> D-81371
-München
+## Association
 
-email: [en@serlo.org](mailto:en@serlo.org)<br> phone: +491629070168
+**Register of Associations:** Registered at the District Court of Dortmund
+**Registration Number:** VR 11477
 
-### Account Details:
+## Representative
 
-Serlo Education e. V.<br> IBAN: DE98 4306 0967 8204 5906 00<br> BIC: GENODEM1GLS
-(GLS Bank)
+Chancenwerk e.V. is legally represented by the association's board, which in turn is represented by the chairman, Murat Vural.
 
-## Liability for content
+## Legal Notice on the Organizational Form
 
-All content on serlo.org ist created collaboratively under open licenses and may
-be edited by any registered users on serlo.org. Registered users are obliged to
-create and edit content factually correct and in accordance with property law to
-the best of their knowledge. The association does not directly control or
-support editorial work and most content on the platform can be modified by
-registered users at any time. The active users are invoked to create all content
-that they contribute to this website with best knowledge. All authors are fully
-accountable for the content created by them. The provider expressively reserves
-the right to exclude individual users from contributing to the platform.
+Chancenwerk e.V. is a non-profit organization structured as a registered association.
 
-Due to the open structure of Serlo and the frequent modifications of its
-contents it can be possible that you will see false, incomplete, outdated,
-contradicting, misportrayed or abridged information . The user agrees to not
-hold the association accountable for any damages resulting from faith in the
-platforms content or from its use. Registered users who are labelled as
-administrators (“admins”) or moderators of the platform are merely regular users
-of the platform wih extended technical rights and explicitly not official or
-legal representatives of the website provider. These individuals normally like
-to help quickly with questions or complaints, but are not personally responsible
-for the website - particularly not with regard to correctness, up-to-dateness,
-and completeness of the information provided.
+## Legal Notice on Liability / Disclaimer
 
-## Informations for copyright-holders
+Chancenwerk e.V. makes every effort to ensure the accuracy and timeliness of the information provided on this website. Nevertheless, errors and ambiguities cannot be completely excluded. Chancenwerk e.V. therefore assumes no liability for the up-to-date status, correctness, completeness, or quality of the provided information. Chancenwerk e.V. is not liable for material or immaterial damages caused directly or indirectly by the use or non-use of the offered information or by the use of incorrect and incomplete information, unless it can be proven that Chancenwerk e.V. acted with intent or gross negligence. The same applies to software made available free of charge for download. Chancenwerk e.V. reserves the right to change, supplement, delete, or temporarily or permanently cease publication of parts or the entire website without prior notice.
 
-The website provider indicates on all inputpages to not use material that is
-subject to the copyright of third parties. Unfortunately, it cannot be warranted
-that material that violates existing copyright will not be uploaded by users and
-not immediately be recognized as such.
+Responsibility for "external content," such as that provided by direct or indirect links to other providers, presupposes knowledge of illegal or punishable content. "External content" is identified appropriately. Chancenwerk e.V. has no influence on such "external content" and does not adopt it as its own. Chancenwerk e.V. has no positive knowledge of any illegal or offensive content on the linked pages of other providers. If, however, illegal or offensive content should be present on the linked pages of external providers, Chancenwerk e.V. expressly distances itself from such content.
 
-If the website provider is made aware of any such copyright violation the
-material concerned will be deleted immediately. Official contact person for such
-cases is the executive board of the sponsoring association. You can address your
-complaint at [vorstand@serlo.org](mailto:vorstand@serlo.org) - the email should
-contain an exact reference to the concerned content as well as the publication
-or website from which the content was unwarrentedly taken.
+## Copyright Notice
 
-## Copyright law
-
-Please look at our [terms of use](https://en.serlo.org/terms).
-
-## Responsibility for links
-
-Our offer contains links to websites of third parties, on whose content we have
-not influence. The content on liked websites is the sole responsibilty of the
-respective provider or operator and Serlo Education cannot be held accountable
-for any such external content. The linked sites have been checked for and found
-clear of possible conflicts with the law at the time of installation of the link
-on serlo.org. A permanent content-related control of linked websites without
-concrete indications for illegal activity cannot reasonnably be expected. When
-made aware of illegal activity or content we will immediately remove such links.
-
-## Privacy policy
-
-Please have a look at our indications in our
-[privacy policy](https://en.serlo.org/privacy).
+All articles and images published on this website are protected by copyright. Any use not permitted by copyright law requires prior written consent from the provider. This applies in particular to reproduction, editing, translation, storage, processing, or reproduction of content in databases or other electronic media and systems. Photocopies and downloads of web pages may only be made for personal, private, and non-commercial use.
