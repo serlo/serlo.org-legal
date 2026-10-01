@@ -9,7 +9,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@serlo/serlo.org-legal@workspace:."
   dependencies:
-    prettier: ^3.9.4
+    prettier: ^3.9.9
     prettier-plugin-packagejson: ^3.0.2
   languageName: unknown
   linkType: soft
@@ -75,12 +75,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.9.4":
-  version: 3.9.4
-  resolution: "prettier@npm:3.9.4"
+"prettier@npm:^3.9.9":
+  version: 3.9.9
+  resolution: "prettier@npm:3.9.9"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 96b0125a8af78e1e3c2c3f916a768934a542d5fa64bf1819cbef5c9cb081b793ebe99eb202f98e230741595be9d14d73819380bd91988a7df422d704a97bb38c
+  checksum: fbd41978e758c07ce493728c73c9011400446281aca707024e58f7b6ea5ad1dd2f12f8cc51ff76ceb7c7749947db876f6074030a5ec333d8e4084c29455ea948
   languageName: node
   linkType: hard
 
