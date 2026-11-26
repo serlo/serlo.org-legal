@@ -10,7 +10,7 @@ __metadata:
   resolution: "@serlo/serlo.org-legal@workspace:."
   dependencies:
     prettier: ^3.9.9
-    prettier-plugin-packagejson: ^3.0.2
+    prettier-plugin-packagejson: ^3.0.3
   languageName: unknown
   linkType: soft
 
@@ -61,17 +61,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier-plugin-packagejson@npm:^3.0.2":
-  version: 3.0.2
-  resolution: "prettier-plugin-packagejson@npm:3.0.2"
+"prettier-plugin-packagejson@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "prettier-plugin-packagejson@npm:3.0.3"
   dependencies:
-    sort-package-json: ^3.6.0
+    sort-package-json: ^4.0.0
   peerDependencies:
     prettier: ^3
   peerDependenciesMeta:
     prettier:
       optional: true
-  checksum: 1eaf8b486faa67312fb74f8ed9f1f966670eb543e34a5fef415457554e5a39ba443e00d6215722d8d0e898edbe1c472b20c3fadf1ad5a9c24d0d09a622ad6238
+  checksum: 019035a9247730a0498f0d892dfcdc436ec6aca28132b910e198d4ddffe3b7573ff9c0e9a17b7781aa7dfbc7fca5e5f5da70e6331a99db85cf1817375162a129
   languageName: node
   linkType: hard
 
@@ -100,9 +100,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sort-package-json@npm:^3.6.0":
-  version: 3.6.1
-  resolution: "sort-package-json@npm:3.6.1"
+"sort-package-json@npm:^4.0.0":
+  version: 4.1.0
+  resolution: "sort-package-json@npm:4.1.0"
   dependencies:
     detect-indent: ^7.0.2
     detect-newline: ^4.0.1
@@ -113,7 +113,7 @@ __metadata:
     tinyglobby: ^0.2.15
   bin:
     sort-package-json: cli.js
-  checksum: 26f7b9f70749f46f9c3aa604550de34fdb28dc26aba6a7ecaf1b7d533be4f586ac77749a2a9d52ea8c0e0ccd1643f9972f238b3f738d51f1db04feccba00fc36
+  checksum: 8ca67bf12710deaa0bd227c8dbc098861d0bf07382e640ff4beb85f991401de8a2fe42049a7f99f03c08289c54f14a161eba5bd660ab4920e31847133484ab36
   languageName: node
   linkType: hard
 
